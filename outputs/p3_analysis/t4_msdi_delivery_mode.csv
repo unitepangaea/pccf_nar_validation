@@ -1,0 +1,57 @@
+sample,delivery_mode,dimension,N,pct_misclassified,pct_pccf_less_deprived,pct_pccf_more_deprived,pct_off_2plus,kappa_linear,kappa_quadratic,small_cell
+main,Urban letter carrier: house,material,7646600,5,2.5,2.5,1.7,0.955,0.968,FALSE
+main,Urban letter carrier: apartment,material,1869711,2.9,1.4,1.5,1.1,0.974,0.981,FALSE
+main,Business / large volume receiver,material,22657,3.1,1.7,1.3,2,0.96,0.962,FALSE
+main,Rural postal code,material,2015643,46.2,23.2,23,17.7,0.516,0.606,FALSE
+main,Rural route / suburban service,material,145663,43.6,21.1,22.5,18.7,0.507,0.578,FALSE
+main,PO box / general delivery / other,material,27467,51,26.5,24.5,24.5,0.42,0.479,FALSE
+main,Unknown / retired,material,3979,65.7,19.8,45.9,30.7,0.271,0.38,FALSE
+main,Urban letter carrier: house,social,7646600,4.9,2.5,2.4,1.9,0.953,0.964,FALSE
+main,Urban letter carrier: apartment,social,1869711,2.9,1.4,1.5,1.1,0.95,0.951,FALSE
+main,Business / large volume receiver,social,22657,2.8,1,1.8,1.7,0.947,0.948,FALSE
+main,Rural postal code,social,2015643,48.8,26.5,22.4,19.1,0.394,0.425,FALSE
+main,Rural route / suburban service,social,145663,40.8,21.6,19.2,12.6,0.468,0.504,FALSE
+main,PO box / general delivery / other,social,27467,53.5,27.1,26.4,22.2,0.436,0.511,FALSE
+main,Unknown / retired,social,3979,57.5,30,27.6,26.2,0.398,0.497,FALSE
+building,Urban letter carrier: house,material,7523408,5,2.5,2.5,1.7,0.955,0.968,FALSE
+building,Urban letter carrier: apartment,material,1856813,2.9,1.4,1.5,1.1,0.974,0.981,FALSE
+building,Business / large volume receiver,material,22616,3,1.7,1.3,2,0.96,0.962,FALSE
+building,Rural postal code,material,1520984,44.9,22,22.9,16.8,0.531,0.622,FALSE
+building,Rural route / suburban service,material,87283,41.1,20.2,20.9,18.3,0.535,0.601,FALSE
+building,PO box / general delivery / other,material,20848,50.5,26.1,24.4,25.8,0.418,0.475,FALSE
+building,Unknown / retired,material,3168,63.5,22.5,41,31.2,0.284,0.387,FALSE
+building,Urban letter carrier: house,social,7523408,4.9,2.5,2.4,1.9,0.952,0.964,FALSE
+building,Urban letter carrier: apartment,social,1856813,2.9,1.4,1.5,1.1,0.949,0.95,FALSE
+building,Business / large volume receiver,social,22616,2.8,1,1.8,1.7,0.947,0.948,FALSE
+building,Rural postal code,social,1520984,47.2,24.8,22.4,17.4,0.414,0.45,FALSE
+building,Rural route / suburban service,social,87283,39.7,20.9,18.8,12.5,0.492,0.53,FALSE
+building,PO box / general delivery / other,social,20848,51.2,26.2,25,19.6,0.482,0.564,FALSE
+building,Unknown / retired,social,3168,59.9,28.7,31.2,30.4,0.299,0.361,FALSE
+oda,Urban letter carrier: house,material,123192,2.8,1.5,1.2,1,0.971,0.976,FALSE
+oda,Urban letter carrier: apartment,material,12898,1.4,0.5,0.9,0.6,0.983,0.983,FALSE
+oda,Business / large volume receiver,material,41,12.2,9.8,2.4,2.4,0.895,0.94,TRUE
+oda,Rural postal code,material,88447,53.9,28.1,25.9,20.8,0.441,0.547,FALSE
+oda,Rural route / suburban service,material,13554,44.8,19.8,25,19.2,0.464,0.532,FALSE
+oda,PO box / general delivery / other,material,571,50.8,24.3,26.4,25.6,0.519,0.666,FALSE
+oda,Unknown / retired,material,387,60.5,1,59.4,8.5,0.216,0.417,FALSE
+oda,Urban letter carrier: house,social,123192,3,1.5,1.5,0.9,0.968,0.975,FALSE
+oda,Urban letter carrier: apartment,social,12898,1,1,0,0.4,0.986,0.986,FALSE
+oda,Business / large volume receiver,social,41,4.9,2.4,2.4,0,0.937,0.967,TRUE
+oda,Rural postal code,social,88447,57,35,22,24.2,0.309,0.36,FALSE
+oda,Rural route / suburban service,social,13554,40.5,21.4,19.2,11.1,0.43,0.456,FALSE
+oda,PO box / general delivery / other,social,571,56,25.6,30.5,27.3,0.336,0.369,FALSE
+oda,Unknown / retired,social,387,62.5,58.1,4.4,5.7,0.092,0.188,FALSE
+blockface,Rural postal code,material,406212,49.4,26.5,23,20.3,0.465,0.549,FALSE
+blockface,Rural route / suburban service,material,44826,48,23.2,24.8,19.2,0.458,0.537,FALSE
+blockface,PO box / general delivery / other,material,6048,52.9,28.1,24.9,19.8,0.401,0.461,FALSE
+blockface,Unknown / retired,material,424,86.6,16.5,70,47.2,-0.012,-0.031,FALSE
+blockface,Rural postal code,social,406212,53.1,30.9,22.2,24.2,0.339,0.359,FALSE
+blockface,Rural route / suburban service,social,44826,43.3,23.2,20.1,13.2,0.416,0.442,FALSE
+blockface,PO box / general delivery / other,social,6048,61.3,30.4,30.9,30.8,0.262,0.306,FALSE
+blockface,Unknown / retired,social,424,34.9,13.4,21.5,13.7,0.669,0.758,FALSE
+urban_blockface_excluded,Urban letter carrier: house,material,204075,5.2,2.5,2.8,1.8,0.948,0.96,FALSE
+urban_blockface_excluded,Urban letter carrier: apartment,material,16568,3.3,2.2,1.1,1.9,0.953,0.951,FALSE
+urban_blockface_excluded,Business / large volume receiver,material,116,2.6,0.9,1.7,0.9,0.974,0.981,FALSE
+urban_blockface_excluded,Urban letter carrier: house,social,204075,4.9,2.4,2.5,1.8,0.95,0.96,FALSE
+urban_blockface_excluded,Urban letter carrier: apartment,social,16568,3.2,1.5,1.7,2.7,0.934,0.908,FALSE
+urban_blockface_excluded,Business / large volume receiver,social,116,2.6,1.7,0.9,1.7,0.949,0.939,FALSE

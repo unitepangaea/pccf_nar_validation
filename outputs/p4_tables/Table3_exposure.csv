@@ -1,0 +1,8 @@
+level,EVI_N,EVI_ref,EVI_pccf,EVI_bias,EVI_MAE,EVI_r,pct_misclassified_material,pct_misclassified_social,pct_off_2plus_material,pct_off_2plus_social,kappa_linear_material,kappa_linear_social
+Urban letter carrier: house,7988312,0.328,0.328,4e-04,0.0125,0.957,5,4.9,1.7,1.9,0.955,0.953
+Urban letter carrier: apartment,2052090,0.265,0.264,-2e-04,0.01,0.966,2.9,2.9,1.1,1.1,0.974,0.95
+Business / large volume receiver,30229,0.246,0.247,5e-04,0.0095,0.977,3.1,2.8,2,1.7,0.96,0.947
+Rural postal code,2137452,0.437,0.472,0.0359,0.0821,0.514,46.2,48.8,17.7,19.1,0.516,0.394
+Rural route / suburban service,155454,0.485,0.52,0.0345,0.0821,0.37,43.6,40.8,18.7,12.6,0.507,0.468
+PO box / general delivery / other,32250,0.376,0.384,0.0073,0.0711,0.608,51,53.5,24.5,22.2,0.42,0.436
+Unknown / retired,5395,0.302,0.331,0.0286,0.0819,0.376,65.7,57.5,30.7,26.2,0.271,0.398

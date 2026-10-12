@@ -1,0 +1,313 @@
+sample,delivery_mode,rurality,dimension,N,pct_misclassified,pct_pccf_less_deprived,pct_pccf_more_deprived,pct_off_2plus,kappa_linear,kappa_quadratic,small_cell
+main,Urban letter carrier: house,CMA,material,6129346,4.6,2.3,2.3,1.6,0.958,0.971,FALSE
+main,Urban letter carrier: house,CA,material,1027736,5.6,2.8,2.7,2.1,0.945,0.957,FALSE
+main,Urban letter carrier: house,Strong MIZ,material,139685,9.3,4.5,4.8,3.4,0.907,0.929,FALSE
+main,Urban letter carrier: house,Moderate MIZ,material,200140,6.2,3.1,3.1,2.1,0.936,0.952,FALSE
+main,Urban letter carrier: house,Weak MIZ,material,147861,7.9,4,3.9,2.8,0.914,0.93,FALSE
+main,Urban letter carrier: house,No MIZ,material,1829,6.6,5.1,1.5,5.4,0.879,0.898,FALSE
+main,Urban letter carrier: house,Territories,material,3,100,100,0,100,0,0,TRUE
+main,Urban letter carrier: apartment,CMA,material,1785803,2.8,1.4,1.5,1.1,0.975,0.982,FALSE
+main,Urban letter carrier: apartment,CA,material,69941,3.6,2.3,1.3,1.5,0.966,0.976,FALSE
+main,Urban letter carrier: apartment,Strong MIZ,material,1862,6,2.7,3.3,0.1,0.95,0.973,FALSE
+main,Urban letter carrier: apartment,Moderate MIZ,material,7450,5.9,2.1,3.8,1.3,0.958,0.979,FALSE
+main,Urban letter carrier: apartment,Weak MIZ,material,4654,7.5,3.9,3.5,1.9,0.921,0.938,FALSE
+main,Urban letter carrier: apartment,No MIZ,material,1,100,0,100,100,,,TRUE
+main,Business / large volume receiver,CMA,material,21113,2.8,1.6,1.2,2,0.96,0.959,FALSE
+main,Business / large volume receiver,CA,material,818,12.1,7.5,4.6,2.9,0.884,0.925,FALSE
+main,Business / large volume receiver,Strong MIZ,material,34,0,0,0,0,1,1,TRUE
+main,Business / large volume receiver,Moderate MIZ,material,342,0,0,0,0,1,1,FALSE
+main,Business / large volume receiver,Weak MIZ,material,350,1.7,1.1,0.6,0,0.987,0.994,FALSE
+main,Rural postal code,CMA,material,339477,50,25.1,24.9,18.3,0.461,0.564,FALSE
+main,Rural postal code,CA,material,174058,50,24.6,25.4,19.1,0.465,0.554,FALSE
+main,Rural postal code,Strong MIZ,material,535083,48.3,24.3,24,17.8,0.458,0.54,FALSE
+main,Rural postal code,Moderate MIZ,material,618047,43.1,21.6,21.5,17.2,0.513,0.583,FALSE
+main,Rural postal code,Weak MIZ,material,303327,45.2,22.7,22.4,17.7,0.53,0.629,FALSE
+main,Rural postal code,No MIZ,material,35962,26.3,14.8,11.5,15.4,0.611,0.625,FALSE
+main,Rural postal code,Territories,material,9689,34.1,13.1,21,11.8,0.637,0.687,FALSE
+main,Rural route / suburban service,CMA,material,47865,39.6,18.8,20.7,16.9,0.513,0.554,FALSE
+main,Rural route / suburban service,CA,material,33499,47.6,23.4,24.2,21,0.48,0.561,FALSE
+main,Rural route / suburban service,Strong MIZ,material,23760,44.8,21.9,22.8,17.7,0.501,0.586,FALSE
+main,Rural route / suburban service,Moderate MIZ,material,25464,44.9,21.8,23.1,19.8,0.487,0.564,FALSE
+main,Rural route / suburban service,Weak MIZ,material,15000,43.3,20.2,23.1,18.8,0.522,0.593,FALSE
+main,Rural route / suburban service,No MIZ,material,75,62.7,62.7,0,26.7,0,0,TRUE
+main,PO box / general delivery / other,CMA,material,7668,46.5,24.2,22.2,23.5,0.464,0.509,FALSE
+main,PO box / general delivery / other,CA,material,5084,52.7,26.4,26.4,25.6,0.401,0.478,FALSE
+main,PO box / general delivery / other,Strong MIZ,material,3420,55.5,30.6,24.9,17.3,0.291,0.331,FALSE
+main,PO box / general delivery / other,Moderate MIZ,material,4933,45.2,22,23.2,22.6,0.502,0.596,FALSE
+main,PO box / general delivery / other,Weak MIZ,material,6288,57.3,30.6,26.7,30.2,0.337,0.39,FALSE
+main,PO box / general delivery / other,No MIZ,material,73,53.4,34.2,19.2,31.5,0.226,0.244,TRUE
+main,PO box / general delivery / other,Territories,material,1,100,100,0,100,,,TRUE
+main,Unknown / retired,CMA,material,3348,68.3,19.5,48.8,31.3,0.235,0.348,FALSE
+main,Unknown / retired,CA,material,206,39.3,19.9,19.4,15,0.5,0.539,FALSE
+main,Unknown / retired,Strong MIZ,material,83,55.4,45.8,9.6,16.9,0.309,0.441,TRUE
+main,Unknown / retired,Moderate MIZ,material,233,57.1,8.6,48.5,29.6,0.288,0.268,FALSE
+main,Unknown / retired,Weak MIZ,material,108,60.2,32.4,27.8,51.9,-0.009,0.013,FALSE
+main,Unknown / retired,No MIZ,material,1,100,0,100,100,,,TRUE
+main,Urban letter carrier: house,CMA,social,6129346,4.6,2.4,2.2,1.8,0.956,0.967,FALSE
+main,Urban letter carrier: house,CA,social,1027736,5.7,2.9,2.8,2.1,0.937,0.949,FALSE
+main,Urban letter carrier: house,Strong MIZ,social,139685,8.1,4,4.1,2.6,0.916,0.934,FALSE
+main,Urban letter carrier: house,Moderate MIZ,social,200140,6.7,3.5,3.3,2.2,0.923,0.931,FALSE
+main,Urban letter carrier: house,Weak MIZ,social,147861,7.5,3.6,3.9,2.2,0.923,0.942,FALSE
+main,Urban letter carrier: house,No MIZ,social,1829,9.5,3.4,6,5.5,0.883,0.902,FALSE
+main,Urban letter carrier: house,Territories,social,3,100,0,100,100,0,0,TRUE
+main,Urban letter carrier: apartment,CMA,social,1785803,2.8,1.3,1.5,1.1,0.95,0.95,FALSE
+main,Urban letter carrier: apartment,CA,social,69941,3.9,1.9,2,0.8,0.945,0.954,FALSE
+main,Urban letter carrier: apartment,Strong MIZ,social,1862,6.7,6.5,0.2,0.5,0.947,0.97,FALSE
+main,Urban letter carrier: apartment,Moderate MIZ,social,7450,1.7,0.5,1.2,0.7,0.975,0.977,FALSE
+main,Urban letter carrier: apartment,Weak MIZ,social,4654,5.4,2,3.4,0.2,0.94,0.965,FALSE
+main,Urban letter carrier: apartment,No MIZ,social,1,100,0,100,100,,,TRUE
+main,Business / large volume receiver,CMA,social,21113,3,1.1,1.9,1.8,0.943,0.945,FALSE
+main,Business / large volume receiver,CA,social,818,0,0,0,0,1,1,FALSE
+main,Business / large volume receiver,Strong MIZ,social,34,0,0,0,0,1,1,TRUE
+main,Business / large volume receiver,Moderate MIZ,social,342,0,0,0,0,1,1,FALSE
+main,Business / large volume receiver,Weak MIZ,social,350,0.6,0,0.6,0.6,0.99,0.99,FALSE
+main,Rural postal code,CMA,social,339477,51.3,27.8,23.5,18.9,0.359,0.395,FALSE
+main,Rural postal code,CA,social,174058,51.1,26.8,24.4,19.2,0.375,0.421,FALSE
+main,Rural postal code,Strong MIZ,social,535083,49,26.1,22.9,18,0.38,0.412,FALSE
+main,Rural postal code,Moderate MIZ,social,618047,46.9,25.1,21.8,18.3,0.396,0.411,FALSE
+main,Rural postal code,Weak MIZ,social,303327,50.6,29,21.6,23.3,0.376,0.401,FALSE
+main,Rural postal code,No MIZ,social,35962,32.8,20.2,12.6,18.6,0.576,0.567,FALSE
+main,Rural postal code,Territories,social,9689,37.1,23.5,13.6,8.4,0.603,0.671,FALSE
+main,Rural route / suburban service,CMA,social,47865,38.8,20,18.8,11.4,0.491,0.529,FALSE
+main,Rural route / suburban service,CA,social,33499,43,23,20.1,14.8,0.438,0.464,FALSE
+main,Rural route / suburban service,Strong MIZ,social,23760,41.5,23.3,18.2,11.3,0.431,0.465,FALSE
+main,Rural route / suburban service,Moderate MIZ,social,25464,39.6,19.9,19.7,11.7,0.471,0.507,FALSE
+main,Rural route / suburban service,Weak MIZ,social,15000,43.6,23.8,19.8,14.7,0.412,0.442,FALSE
+main,Rural route / suburban service,No MIZ,social,75,74.7,66.7,8,6.7,0,0,TRUE
+main,PO box / general delivery / other,CMA,social,7668,52.6,29.6,23,18.4,0.439,0.509,FALSE
+main,PO box / general delivery / other,CA,social,5084,48.1,20.1,28,20.2,0.468,0.541,FALSE
+main,PO box / general delivery / other,Strong MIZ,social,3420,51.7,26.1,25.7,24.7,0.276,0.295,FALSE
+main,PO box / general delivery / other,Moderate MIZ,social,4933,52,21.9,30,21,0.416,0.484,FALSE
+main,PO box / general delivery / other,Weak MIZ,social,6288,61.2,34.7,26.6,27.9,0.316,0.385,FALSE
+main,PO box / general delivery / other,No MIZ,social,73,61.6,11,50.7,47.9,-0.057,-0.069,TRUE
+main,PO box / general delivery / other,Territories,social,1,100,0,100,100,,,TRUE
+main,Unknown / retired,CMA,social,3348,59,30.9,28,26.5,0.396,0.507,FALSE
+main,Unknown / retired,CA,social,206,37.9,27.2,10.7,25.7,0.475,0.515,FALSE
+main,Unknown / retired,Strong MIZ,social,83,53,7.2,45.8,25.3,0.314,0.249,TRUE
+main,Unknown / retired,Moderate MIZ,social,233,52.8,17.6,35.2,20.6,0.16,0.187,FALSE
+main,Unknown / retired,Weak MIZ,social,108,63,48.1,14.8,28.7,0.28,0.335,FALSE
+main,Unknown / retired,No MIZ,social,1,100,100,0,100,,,TRUE
+building,Urban letter carrier: house,CMA,material,6014621,4.7,2.4,2.3,1.6,0.958,0.971,FALSE
+building,Urban letter carrier: house,CA,material,1023777,5.6,2.8,2.7,2.1,0.944,0.957,FALSE
+building,Urban letter carrier: house,Strong MIZ,material,138110,9.3,4.5,4.8,3.4,0.907,0.929,FALSE
+building,Urban letter carrier: house,Moderate MIZ,material,198518,6.1,3.1,3,2.1,0.938,0.953,FALSE
+building,Urban letter carrier: house,Weak MIZ,material,146559,7.9,4,3.9,2.7,0.915,0.93,FALSE
+building,Urban letter carrier: house,No MIZ,material,1820,6.6,5.1,1.5,5.4,0.879,0.898,FALSE
+building,Urban letter carrier: house,Territories,material,3,100,100,0,100,0,0,TRUE
+building,Urban letter carrier: apartment,CMA,material,1773318,2.8,1.4,1.5,1.1,0.974,0.982,FALSE
+building,Urban letter carrier: apartment,CA,material,69539,3.6,2.3,1.3,1.5,0.966,0.976,FALSE
+building,Urban letter carrier: apartment,Strong MIZ,material,1862,6,2.7,3.3,0.1,0.95,0.973,FALSE
+building,Urban letter carrier: apartment,Moderate MIZ,material,7440,5.9,2.1,3.8,1.3,0.958,0.979,FALSE
+building,Urban letter carrier: apartment,Weak MIZ,material,4653,7.4,3.9,3.5,1.9,0.922,0.938,FALSE
+building,Urban letter carrier: apartment,No MIZ,material,1,100,0,100,100,,,TRUE
+building,Business / large volume receiver,CMA,material,21082,2.8,1.5,1.2,2,0.96,0.959,FALSE
+building,Business / large volume receiver,CA,material,818,12.1,7.5,4.6,2.9,0.884,0.925,FALSE
+building,Business / large volume receiver,Strong MIZ,material,34,0,0,0,0,1,1,TRUE
+building,Business / large volume receiver,Moderate MIZ,material,342,0,0,0,0,1,1,FALSE
+building,Business / large volume receiver,Weak MIZ,material,340,1.8,1.2,0.6,0,0.987,0.994,FALSE
+building,Rural postal code,CMA,material,247019,48.7,24.1,24.6,17.6,0.485,0.592,FALSE
+building,Rural postal code,CA,material,131997,48.6,23.4,25.2,18.2,0.479,0.565,FALSE
+building,Rural postal code,Strong MIZ,material,418576,47.3,23,24.3,17.2,0.471,0.552,FALSE
+building,Rural postal code,Moderate MIZ,material,461869,41.7,20.5,21.3,16.2,0.521,0.588,FALSE
+building,Rural postal code,Weak MIZ,material,228892,43.2,21.5,21.7,16.4,0.552,0.653,FALSE
+building,Rural postal code,No MIZ,material,23285,23.9,11.9,11.9,14.1,0.638,0.644,FALSE
+building,Rural postal code,Territories,material,9346,34.7,13.2,21.5,11.6,0.637,0.69,FALSE
+building,Rural route / suburban service,CMA,material,32631,36.7,17.7,19,16.8,0.537,0.57,FALSE
+building,Rural route / suburban service,CA,material,23022,45.6,22.8,22.7,20.9,0.499,0.577,FALSE
+building,Rural route / suburban service,Strong MIZ,material,10240,43.2,21,22.2,17,0.519,0.6,FALSE
+building,Rural route / suburban service,Moderate MIZ,material,12961,44.7,23.4,21.4,20.7,0.438,0.474,FALSE
+building,Rural route / suburban service,Weak MIZ,material,8354,38,16.3,21.7,15.1,0.591,0.669,FALSE
+building,Rural route / suburban service,No MIZ,material,75,62.7,62.7,0,26.7,0,0,TRUE
+building,PO box / general delivery / other,CMA,material,5953,45.3,24.5,20.9,26,0.425,0.435,FALSE
+building,PO box / general delivery / other,CA,material,4610,52.3,25.7,26.6,25.4,0.416,0.507,FALSE
+building,PO box / general delivery / other,Strong MIZ,material,1468,51.4,31,20.4,22.5,0.36,0.381,FALSE
+building,PO box / general delivery / other,Moderate MIZ,material,4143,45.4,21.8,23.6,22.5,0.511,0.611,FALSE
+building,PO box / general delivery / other,Weak MIZ,material,4629,59.3,30.9,28.5,29.9,0.313,0.361,FALSE
+building,PO box / general delivery / other,No MIZ,material,44,72.7,40.9,31.8,43.2,0.104,0.08,TRUE
+building,PO box / general delivery / other,Territories,material,1,100,100,0,100,,,TRUE
+building,Unknown / retired,CMA,material,2565,66.3,22.9,43.4,32,0.254,0.365,FALSE
+building,Unknown / retired,CA,material,201,40.3,20.4,19.9,15.4,0.483,0.52,FALSE
+building,Unknown / retired,Strong MIZ,material,76,53.9,43.4,10.5,15.8,0.33,0.454,TRUE
+building,Unknown / retired,Moderate MIZ,material,218,56.4,7.8,48.6,30.3,0.283,0.251,FALSE
+building,Unknown / retired,Weak MIZ,material,107,60.7,32.7,28,52.3,-0.031,-0.011,FALSE
+building,Unknown / retired,No MIZ,material,1,100,0,100,100,,,TRUE
+building,Urban letter carrier: house,CMA,social,6014621,4.6,2.4,2.3,1.8,0.956,0.967,FALSE
+building,Urban letter carrier: house,CA,social,1023777,5.7,2.9,2.8,2.1,0.937,0.949,FALSE
+building,Urban letter carrier: house,Strong MIZ,social,138110,8.2,4,4.1,2.6,0.916,0.933,FALSE
+building,Urban letter carrier: house,Moderate MIZ,social,198518,6.6,3.4,3.2,2.2,0.924,0.932,FALSE
+building,Urban letter carrier: house,Weak MIZ,social,146559,7.4,3.6,3.8,2.2,0.923,0.943,FALSE
+building,Urban letter carrier: house,No MIZ,social,1820,9.5,3.4,6,5.5,0.883,0.902,FALSE
+building,Urban letter carrier: house,Territories,social,3,100,0,100,100,0,0,TRUE
+building,Urban letter carrier: apartment,CMA,social,1773318,2.8,1.3,1.5,1.1,0.95,0.95,FALSE
+building,Urban letter carrier: apartment,CA,social,69539,3.9,1.9,2,0.8,0.944,0.953,FALSE
+building,Urban letter carrier: apartment,Strong MIZ,social,1862,6.7,6.5,0.2,0.5,0.947,0.97,FALSE
+building,Urban letter carrier: apartment,Moderate MIZ,social,7440,1.7,0.5,1.2,0.7,0.975,0.977,FALSE
+building,Urban letter carrier: apartment,Weak MIZ,social,4653,5.3,2,3.4,0.2,0.941,0.965,FALSE
+building,Urban letter carrier: apartment,No MIZ,social,1,100,0,100,100,,,TRUE
+building,Business / large volume receiver,CMA,social,21082,3,1.1,1.9,1.8,0.943,0.945,FALSE
+building,Business / large volume receiver,CA,social,818,0,0,0,0,1,1,FALSE
+building,Business / large volume receiver,Strong MIZ,social,34,0,0,0,0,1,1,TRUE
+building,Business / large volume receiver,Moderate MIZ,social,342,0,0,0,0,1,1,FALSE
+building,Business / large volume receiver,Weak MIZ,social,340,0.6,0,0.6,0.6,0.99,0.99,FALSE
+building,Rural postal code,CMA,social,247019,50,26,24.1,17.6,0.374,0.418,FALSE
+building,Rural postal code,CA,social,131997,49.5,24.7,24.7,17.4,0.401,0.458,FALSE
+building,Rural postal code,Strong MIZ,social,418576,46.9,23.9,23.1,16,0.402,0.44,FALSE
+building,Rural postal code,Moderate MIZ,social,461869,45.3,23.8,21.5,16.8,0.418,0.436,FALSE
+building,Rural postal code,Weak MIZ,social,228892,49.2,27.8,21.4,21.5,0.396,0.425,FALSE
+building,Rural postal code,No MIZ,social,23285,30.8,18.3,12.5,17.2,0.612,0.617,FALSE
+building,Rural postal code,Territories,social,9346,37.7,23.9,13.8,8.2,0.602,0.676,FALSE
+building,Rural route / suburban service,CMA,social,32631,36.3,18.9,17.4,11.4,0.519,0.547,FALSE
+building,Rural route / suburban service,CA,social,23022,42.7,23,19.7,14.7,0.446,0.47,FALSE
+building,Rural route / suburban service,Strong MIZ,social,10240,41,21.9,19,12.6,0.402,0.403,FALSE
+building,Rural route / suburban service,Moderate MIZ,social,12961,41.5,20.6,20.9,9.5,0.522,0.604,FALSE
+building,Rural route / suburban service,Weak MIZ,social,8354,39.4,20.9,18.6,15.1,0.448,0.49,FALSE
+building,Rural route / suburban service,No MIZ,social,75,74.7,66.7,8,6.7,0,0,TRUE
+building,PO box / general delivery / other,CMA,social,5953,50.7,29.4,21.4,16.8,0.464,0.524,FALSE
+building,PO box / general delivery / other,CA,social,4610,45.4,19.2,26.2,17.5,0.512,0.597,FALSE
+building,PO box / general delivery / other,Strong MIZ,social,1468,42.9,21.6,21.3,18.1,0.335,0.306,FALSE
+building,PO box / general delivery / other,Moderate MIZ,social,4143,50.8,21.8,29,19.8,0.431,0.498,FALSE
+building,PO box / general delivery / other,Weak MIZ,social,4629,60.4,34.8,25.6,25.2,0.333,0.406,FALSE
+building,PO box / general delivery / other,No MIZ,social,44,75,13.6,61.4,61.4,-0.113,-0.141,TRUE
+building,PO box / general delivery / other,Territories,social,1,100,0,100,100,,,TRUE
+building,Unknown / retired,CMA,social,2565,62.3,29.5,32.8,31.8,0.266,0.331,FALSE
+building,Unknown / retired,CA,social,201,37.8,27.9,10,26.4,0.473,0.511,FALSE
+building,Unknown / retired,Strong MIZ,social,76,52.6,6.6,46.1,25,0.327,0.26,TRUE
+building,Unknown / retired,Moderate MIZ,social,218,52.8,17.9,34.9,19.7,0.173,0.209,FALSE
+building,Unknown / retired,Weak MIZ,social,107,63.6,48.6,15,29,0.269,0.323,FALSE
+building,Unknown / retired,No MIZ,social,1,100,100,0,100,,,TRUE
+oda,Urban letter carrier: house,CMA,material,114725,2.4,1.4,1,0.8,0.975,0.979,FALSE
+oda,Urban letter carrier: house,CA,material,3959,2.9,1,1.9,1.3,0.973,0.981,FALSE
+oda,Urban letter carrier: house,Strong MIZ,material,1575,4.5,2.4,2.1,1.3,0.95,0.958,FALSE
+oda,Urban letter carrier: house,Moderate MIZ,material,1622,19.5,8.8,10.7,5.3,0.753,0.752,FALSE
+oda,Urban letter carrier: house,Weak MIZ,material,1302,13.9,7.6,6.3,8.9,0.811,0.81,FALSE
+oda,Urban letter carrier: house,No MIZ,material,9,11.1,11.1,0,11.1,0.625,0.4,TRUE
+oda,Urban letter carrier: apartment,CMA,material,12485,1.4,0.5,0.9,0.6,0.982,0.982,FALSE
+oda,Urban letter carrier: apartment,CA,material,402,0,0,0,0,1,1,FALSE
+oda,Urban letter carrier: apartment,Moderate MIZ,material,10,0,0,0,0,,,TRUE
+oda,Urban letter carrier: apartment,Weak MIZ,material,1,100,100,0,100,,,TRUE
+oda,Business / large volume receiver,CMA,material,31,16.1,12.9,3.2,3.2,0.87,0.937,TRUE
+oda,Business / large volume receiver,Weak MIZ,material,10,0,0,0,0,,,TRUE
+oda,Rural postal code,CMA,material,28938,53,25.5,27.5,18.2,0.429,0.543,FALSE
+oda,Rural postal code,CA,material,8890,50.1,27.1,23,18.4,0.51,0.622,FALSE
+oda,Rural postal code,Strong MIZ,material,14342,52.3,29.4,22.9,17.2,0.451,0.571,FALSE
+oda,Rural postal code,Moderate MIZ,material,29779,54.7,29.1,25.6,24.7,0.406,0.486,FALSE
+oda,Rural postal code,Weak MIZ,material,6462,63.5,33.2,30.3,26.3,0.215,0.256,FALSE
+oda,Rural postal code,No MIZ,material,36,52.8,0,52.8,52.8,0.214,0.254,TRUE
+oda,Rural route / suburban service,CMA,material,3061,46.5,21,25.5,17.3,0.399,0.41,FALSE
+oda,Rural route / suburban service,CA,material,1438,56.1,18.9,37.2,21.2,0.436,0.573,FALSE
+oda,Rural route / suburban service,Strong MIZ,material,778,34.6,9.9,24.7,5.7,0.619,0.727,FALSE
+oda,Rural route / suburban service,Moderate MIZ,material,5117,40.7,18.2,22.5,20.7,0.467,0.553,FALSE
+oda,Rural route / suburban service,Weak MIZ,material,3160,47,24.2,22.8,21,0.393,0.431,FALSE
+oda,PO box / general delivery / other,CMA,material,391,47.8,19.7,28.1,27.1,0.546,0.69,FALSE
+oda,PO box / general delivery / other,CA,material,7,57.1,42.9,14.3,14.3,0.557,0.749,TRUE
+oda,PO box / general delivery / other,Strong MIZ,material,46,45.7,43.5,2.2,26.1,0.213,0.3,TRUE
+oda,PO box / general delivery / other,Moderate MIZ,material,94,54.3,26.6,27.7,20.2,0.489,0.64,TRUE
+oda,PO box / general delivery / other,Weak MIZ,material,33,81.8,42.4,39.4,24.2,0.288,0.468,TRUE
+oda,Unknown / retired,CMA,material,378,60.6,1.1,59.5,8.7,0.194,0.385,FALSE
+oda,Unknown / retired,CA,material,2,0,0,0,0,1,1,TRUE
+oda,Unknown / retired,Moderate MIZ,material,7,71.4,0,71.4,0,0.255,0.386,TRUE
+oda,Urban letter carrier: house,CMA,social,114725,2.6,1.4,1.3,0.8,0.971,0.977,FALSE
+oda,Urban letter carrier: house,CA,social,3959,3.2,1.4,1.9,1.3,0.967,0.975,FALSE
+oda,Urban letter carrier: house,Strong MIZ,social,1575,3.9,2.2,1.7,1.5,0.955,0.963,FALSE
+oda,Urban letter carrier: house,Moderate MIZ,social,1622,17.1,7.4,9.7,4.9,0.774,0.794,FALSE
+oda,Urban letter carrier: house,Weak MIZ,social,1302,14.1,5.9,8.2,4.5,0.838,0.862,FALSE
+oda,Urban letter carrier: house,No MIZ,social,9,11.1,11.1,0,11.1,0.719,0.609,TRUE
+oda,Urban letter carrier: apartment,CMA,social,12485,1.1,1.1,0,0.4,0.986,0.985,FALSE
+oda,Urban letter carrier: apartment,CA,social,402,0,0,0,0,1,1,FALSE
+oda,Urban letter carrier: apartment,Moderate MIZ,social,10,0,0,0,0,,,TRUE
+oda,Urban letter carrier: apartment,Weak MIZ,social,1,100,0,100,100,,,TRUE
+oda,Business / large volume receiver,CMA,social,31,6.5,3.2,3.2,0,0.904,0.963,TRUE
+oda,Business / large volume receiver,Weak MIZ,social,10,0,0,0,0,,,TRUE
+oda,Rural postal code,CMA,social,28938,52.9,31,21.9,17.9,0.392,0.476,FALSE
+oda,Rural postal code,CA,social,8890,58.5,34.6,23.9,29.6,0.291,0.346,FALSE
+oda,Rural postal code,Strong MIZ,social,14342,62.8,43.1,19.7,32.7,0.232,0.27,FALSE
+oda,Rural postal code,Moderate MIZ,social,29779,55.1,33.1,22.1,22.5,0.242,0.239,FALSE
+oda,Rural postal code,Weak MIZ,social,6462,68.6,44.2,24.5,33.9,0.141,0.167,FALSE
+oda,Rural postal code,No MIZ,social,36,66.7,19.4,47.2,58.3,0,-0.009,TRUE
+oda,Rural route / suburban service,CMA,social,3061,44.1,22.8,21.2,11,0.446,0.545,FALSE
+oda,Rural route / suburban service,CA,social,1438,47.5,22,25.5,11.4,0.346,0.438,FALSE
+oda,Rural route / suburban service,Strong MIZ,social,778,36.4,23.1,13.2,5.5,0.387,0.396,FALSE
+oda,Rural route / suburban service,Moderate MIZ,social,5117,33.8,16.4,17.4,12.7,0.353,0.25,FALSE
+oda,Rural route / suburban service,Weak MIZ,social,3160,45.9,27.2,18.6,9.7,0.294,0.305,FALSE
+oda,PO box / general delivery / other,CMA,social,391,57.3,23.5,33.8,32.2,0.307,0.347,FALSE
+oda,PO box / general delivery / other,CA,social,7,71.4,14.3,57.1,42.9,-0.167,-0.448,TRUE
+oda,PO box / general delivery / other,Strong MIZ,social,46,45.7,26.1,19.6,8.7,0.086,0.008,TRUE
+oda,PO box / general delivery / other,Moderate MIZ,social,94,46.8,27.7,19.1,18.1,0.245,0.127,TRUE
+oda,PO box / general delivery / other,Weak MIZ,social,33,78.8,45.5,33.3,18.2,0.294,0.517,TRUE
+oda,Unknown / retired,CMA,social,378,62.4,59.5,2.9,5.3,0.057,0.137,FALSE
+oda,Unknown / retired,CA,social,2,50,0,50,0,0,0,TRUE
+oda,Unknown / retired,Moderate MIZ,social,7,71.4,0,71.4,28.6,0,-0.037,TRUE
+blockface,Rural postal code,CMA,material,63520,53.6,28.8,24.8,20.8,0.377,0.451,FALSE
+blockface,Rural postal code,CA,material,33171,55.5,28.7,26.8,22.9,0.378,0.464,FALSE
+blockface,Rural postal code,Strong MIZ,material,102165,51.8,28.9,22.9,20.3,0.405,0.484,FALSE
+blockface,Rural postal code,Moderate MIZ,material,126399,45.4,23.8,21.6,19.1,0.485,0.555,FALSE
+blockface,Rural postal code,Weak MIZ,material,67973,50.1,25.7,24.4,21.2,0.468,0.556,FALSE
+blockface,Rural postal code,No MIZ,material,12641,30.6,20.1,10.5,17.6,0.565,0.597,FALSE
+blockface,Rural postal code,Territories,material,343,19.5,10.5,9,15.7,0.644,0.574,FALSE
+blockface,Rural route / suburban service,CMA,material,12173,45.4,21.2,24.2,17.1,0.47,0.537,FALSE
+blockface,Rural route / suburban service,CA,material,9039,51.4,25.7,25.8,21.1,0.43,0.505,FALSE
+blockface,Rural route / suburban service,Strong MIZ,material,12742,46.7,23.5,23.2,19,0.475,0.566,FALSE
+blockface,Rural route / suburban service,Moderate MIZ,material,7386,48.1,21.5,26.6,17.7,0.476,0.584,FALSE
+blockface,Rural route / suburban service,Weak MIZ,material,3486,52.8,26.1,26.7,25.5,0.372,0.428,FALSE
+blockface,PO box / general delivery / other,CMA,material,1324,51.1,24.5,26.5,11.4,0.562,0.723,FALSE
+blockface,PO box / general delivery / other,CA,material,467,57,32.8,24.2,27,0.223,0.113,FALSE
+blockface,PO box / general delivery / other,Strong MIZ,material,1906,58.8,30,28.8,13,0.161,0.205,FALSE
+blockface,PO box / general delivery / other,Moderate MIZ,material,696,43.4,23,20.4,23,0.401,0.44,FALSE
+blockface,PO box / general delivery / other,Weak MIZ,material,1626,50.9,29.5,21.4,31.2,0.345,0.385,FALSE
+blockface,PO box / general delivery / other,No MIZ,material,29,24.1,24.1,0,13.8,0,0,TRUE
+blockface,Unknown / retired,CMA,material,405,88.1,15.3,72.8,48.1,-0.032,-0.063,FALSE
+blockface,Unknown / retired,CA,material,3,0,0,0,0,1,1,TRUE
+blockface,Unknown / retired,Strong MIZ,material,7,71.4,71.4,0,28.6,0.109,0.353,TRUE
+blockface,Unknown / retired,Moderate MIZ,material,8,62.5,37.5,25,37.5,0.368,0.513,TRUE
+blockface,Unknown / retired,Weak MIZ,material,1,0,0,0,0,,,TRUE
+blockface,Rural postal code,CMA,social,63520,55.4,33.4,21.9,24.4,0.277,0.276,FALSE
+blockface,Rural postal code,CA,social,33171,55.8,32.7,23.1,23.5,0.303,0.315,FALSE
+blockface,Rural postal code,Strong MIZ,social,102165,55.2,32.7,22.6,23.7,0.305,0.331,FALSE
+blockface,Rural postal code,Moderate MIZ,social,126399,51,28,23,22.6,0.351,0.364,FALSE
+blockface,Rural postal code,Weak MIZ,social,67973,53.6,31.8,21.7,28.6,0.334,0.355,FALSE
+blockface,Rural postal code,No MIZ,social,12641,36.4,23.9,12.6,21,0.509,0.473,FALSE
+blockface,Rural postal code,Territories,social,343,21.9,12.8,9,15.5,0.58,0.48,FALSE
+blockface,Rural route / suburban service,CMA,social,12173,44.1,22.1,22,11.6,0.388,0.434,FALSE
+blockface,Rural route / suburban service,CA,social,9039,43.2,23,20.2,15.8,0.406,0.416,FALSE
+blockface,Rural route / suburban service,Strong MIZ,social,12742,42.2,24.4,17.8,10.6,0.449,0.506,FALSE
+blockface,Rural route / suburban service,Moderate MIZ,social,7386,40,21,19.1,14.9,0.399,0.379,FALSE
+blockface,Rural route / suburban service,Weak MIZ,social,3486,51.3,27.7,23.7,18.1,0.29,0.271,FALSE
+blockface,PO box / general delivery / other,CMA,social,1324,59.5,32.6,27,21.4,0.37,0.506,FALSE
+blockface,PO box / general delivery / other,CA,social,467,74.5,29.6,45,47.1,-0.028,-0.105,FALSE
+blockface,PO box / general delivery / other,Strong MIZ,social,1906,58.7,29.5,29.2,30.1,0.146,0.165,FALSE
+blockface,PO box / general delivery / other,Moderate MIZ,social,696,59.5,21.8,37.6,28.7,0.264,0.319,FALSE
+blockface,PO box / general delivery / other,Weak MIZ,social,1626,63.2,33.9,29.2,35.6,0.262,0.322,FALSE
+blockface,PO box / general delivery / other,No MIZ,social,29,41.4,6.9,34.5,27.6,-0.028,-0.034,TRUE
+blockface,Unknown / retired,CMA,social,405,34.6,13.3,21.2,13.1,0.676,0.766,FALSE
+blockface,Unknown / retired,CA,social,3,33.3,0,33.3,0,0,0,TRUE
+blockface,Unknown / retired,Strong MIZ,social,7,57.1,14.3,42.9,28.6,0.039,0,TRUE
+blockface,Unknown / retired,Moderate MIZ,social,8,37.5,25,12.5,37.5,0,0,TRUE
+blockface,Unknown / retired,Weak MIZ,social,1,0,0,0,0,,,TRUE
+urban_blockface_excluded,Urban letter carrier: house,CMA,material,132266,3.7,1.8,1.9,1.1,0.964,0.973,FALSE
+urban_blockface_excluded,Urban letter carrier: house,CA,material,38155,5.8,2.6,3.2,2.3,0.941,0.952,FALSE
+urban_blockface_excluded,Urban letter carrier: house,Strong MIZ,material,16266,12.9,6,7,4.1,0.865,0.895,FALSE
+urban_blockface_excluded,Urban letter carrier: house,Moderate MIZ,material,10261,7.9,4,3.9,3,0.913,0.93,FALSE
+urban_blockface_excluded,Urban letter carrier: house,Weak MIZ,material,6894,8.9,4.2,4.7,3.4,0.908,0.924,FALSE
+urban_blockface_excluded,Urban letter carrier: house,No MIZ,material,233,28.8,26.6,2.1,28.3,0.247,0.201,FALSE
+urban_blockface_excluded,Urban letter carrier: apartment,CMA,material,13729,3.9,2.6,1.3,2.3,0.942,0.937,FALSE
+urban_blockface_excluded,Urban letter carrier: apartment,CA,material,2348,0.5,0.5,0,0,0.996,0.998,FALSE
+urban_blockface_excluded,Urban letter carrier: apartment,Strong MIZ,material,85,0,0,0,0,1,1,TRUE
+urban_blockface_excluded,Urban letter carrier: apartment,Moderate MIZ,material,163,1.8,1.8,0,1.8,0.847,0.727,FALSE
+urban_blockface_excluded,Urban letter carrier: apartment,Weak MIZ,material,243,0.4,0.4,0,0,0.997,0.998,FALSE
+urban_blockface_excluded,Business / large volume receiver,CMA,material,66,3,0,3,0,0.963,0.979,TRUE
+urban_blockface_excluded,Business / large volume receiver,CA,material,49,0,0,0,0,1,1,TRUE
+urban_blockface_excluded,Business / large volume receiver,Weak MIZ,material,1,100,100,0,100,,,TRUE
+urban_blockface_excluded,Urban letter carrier: house,CMA,social,132266,3.4,1.7,1.7,1.2,0.963,0.97,FALSE
+urban_blockface_excluded,Urban letter carrier: house,CA,social,38155,5.7,2.8,2.8,2.1,0.943,0.955,FALSE
+urban_blockface_excluded,Urban letter carrier: house,Strong MIZ,social,16266,11.6,4.9,6.8,4.6,0.84,0.841,FALSE
+urban_blockface_excluded,Urban letter carrier: house,Moderate MIZ,social,10261,8.9,4.8,4.1,2.9,0.915,0.939,FALSE
+urban_blockface_excluded,Urban letter carrier: house,Weak MIZ,social,6894,7.9,4.5,3.5,2.5,0.916,0.936,FALSE
+urban_blockface_excluded,Urban letter carrier: house,No MIZ,social,233,26.6,24,2.6,2.6,0.731,0.811,FALSE
+urban_blockface_excluded,Urban letter carrier: apartment,CMA,social,13729,3.8,1.8,2,3.2,0.917,0.879,FALSE
+urban_blockface_excluded,Urban letter carrier: apartment,CA,social,2348,0.5,0.5,0,0,0.997,0.999,FALSE
+urban_blockface_excluded,Urban letter carrier: apartment,Strong MIZ,social,85,1.2,0,1.2,1.2,0,-0.977,TRUE
+urban_blockface_excluded,Urban letter carrier: apartment,Moderate MIZ,social,163,1.2,0,1.2,0.6,0.93,0.921,FALSE
+urban_blockface_excluded,Urban letter carrier: apartment,Weak MIZ,social,243,0,0,0,0,1,1,FALSE
+urban_blockface_excluded,Business / large volume receiver,CMA,social,66,3,1.5,1.5,1.5,0.909,0.916,TRUE
+urban_blockface_excluded,Business / large volume receiver,CA,social,49,0,0,0,0,,,TRUE
+urban_blockface_excluded,Business / large volume receiver,Weak MIZ,social,1,100,100,0,100,,,TRUE

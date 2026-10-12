@@ -1,0 +1,67 @@
+sample,rurality,dimension,N,pct_misclassified,pct_pccf_less_deprived,pct_pccf_more_deprived,pct_off_2plus,kappa_linear,kappa_quadratic,small_cell
+main,CMA,material,8334620,6.4,3.2,3.2,2.3,0.943,0.96,FALSE
+main,CA,material,1311342,12.6,6.3,6.3,4.9,0.872,0.899,FALSE
+main,Strong MIZ,material,703927,40.4,20.3,20.1,14.9,0.56,0.636,FALSE
+main,Moderate MIZ,material,856609,34.2,17.1,17.1,13.6,0.621,0.682,FALSE
+main,Weak MIZ,material,477588,33.3,16.8,16.6,13.1,0.647,0.714,FALSE
+main,No MIZ,material,37941,25.5,14.5,11,15,0.624,0.642,FALSE
+main,Territories,material,9693,34.2,13.2,21,11.8,0.637,0.685,FALSE
+main,CMA,social,8334620,6.4,3.3,3.1,2.4,0.939,0.955,FALSE
+main,CA,social,1311342,12.8,6.6,6.2,4.7,0.865,0.892,FALSE
+main,Strong MIZ,social,703927,40.5,21.5,19,14.7,0.509,0.551,FALSE
+main,Moderate MIZ,social,856609,36.9,19.6,17.3,14.2,0.547,0.576,FALSE
+main,Weak MIZ,social,477588,36.7,20.8,15.9,16.3,0.559,0.588,FALSE
+main,No MIZ,social,37941,31.8,19.5,12.3,18,0.589,0.581,FALSE
+main,Territories,social,9693,37.1,23.5,13.6,8.4,0.602,0.67,FALSE
+building,CMA,material,8097189,5.8,2.9,2.9,2,0.948,0.964,FALSE
+building,CA,material,1253964,10.9,5.4,5.5,4.2,0.89,0.913,FALSE
+building,Strong MIZ,material,570366,37.9,18.5,19.4,13.8,0.59,0.662,FALSE
+building,Moderate MIZ,material,685491,31.1,15.3,15.8,12.1,0.653,0.709,FALSE
+building,Weak MIZ,material,393534,29.7,14.8,14.9,11.3,0.685,0.747,FALSE
+building,No MIZ,material,25226,22.8,11.6,11.2,13.6,0.656,0.667,FALSE
+building,Territories,material,9350,34.7,13.3,21.4,11.7,0.636,0.688,FALSE
+building,CMA,social,8097189,5.8,3,2.8,2.2,0.944,0.959,FALSE
+building,CA,social,1253964,11.1,5.6,5.5,3.9,0.884,0.908,FALSE
+building,Strong MIZ,social,570366,37.3,19,18.3,12.7,0.552,0.598,FALSE
+building,Moderate MIZ,social,685491,33.6,17.5,16,12.3,0.595,0.627,FALSE
+building,Weak MIZ,social,393534,33,18.4,14.6,13.9,0.608,0.638,FALSE
+building,No MIZ,social,25226,29.5,17.3,12.1,16.4,0.63,0.634,FALSE
+building,Territories,social,9350,37.7,23.9,13.8,8.2,0.601,0.675,FALSE
+oda,CMA,material,160009,12.6,6.1,6.5,4.3,0.871,0.899,FALSE
+oda,CA,material,14698,36.6,18.5,18.1,13.6,0.666,0.759,FALSE
+oda,Strong MIZ,material,16741,47,26,21,15.2,0.508,0.616,FALSE
+oda,Moderate MIZ,material,36629,51.2,26.7,24.5,23.2,0.434,0.508,FALSE
+oda,Weak MIZ,material,10968,52.9,27.6,25.3,22.7,0.37,0.421,FALSE
+oda,No MIZ,material,45,44.4,2.2,42.2,44.4,0.236,0.251,TRUE
+oda,CMA,social,160009,12.7,7.3,5.4,4.2,0.865,0.891,FALSE
+oda,CA,social,14698,41,23.5,17.5,19.3,0.552,0.622,FALSE
+oda,Strong MIZ,social,16741,56,38.3,17.7,28.4,0.319,0.359,FALSE
+oda,Moderate MIZ,social,36629,50.4,29.6,20.9,20.3,0.284,0.268,FALSE
+oda,Weak MIZ,social,10968,55.6,34.7,20.9,23.4,0.319,0.364,FALSE
+oda,No MIZ,social,45,55.6,17.8,37.8,48.9,0.103,0.066,TRUE
+blockface,CMA,material,77422,52.4,27.5,25,20.2,0.393,0.467,FALSE
+blockface,CA,material,42680,54.6,28.1,26.6,22.5,0.404,0.491,FALSE
+blockface,Strong MIZ,material,116820,51.4,28.3,23.1,20,0.416,0.498,FALSE
+blockface,Moderate MIZ,material,134489,45.5,23.7,21.8,19.1,0.494,0.568,FALSE
+blockface,Weak MIZ,material,73086,50.3,25.8,24.4,21.7,0.471,0.559,FALSE
+blockface,No MIZ,material,12670,30.6,20.1,10.5,17.6,0.565,0.597,FALSE
+blockface,Territories,material,343,19.5,10.5,9,15.7,0.644,0.574,FALSE
+blockface,CMA,social,77422,53.6,31.5,22,22.3,0.314,0.332,FALSE
+blockface,CA,social,42680,53.3,30.6,22.7,22.2,0.333,0.35,FALSE
+blockface,Strong MIZ,social,116820,53.9,31.7,22.2,22.4,0.322,0.352,FALSE
+blockface,Moderate MIZ,social,134489,50.4,27.6,22.9,22.2,0.356,0.369,FALSE
+blockface,Weak MIZ,social,73086,53.7,31.7,22,28.2,0.339,0.363,FALSE
+blockface,No MIZ,social,12670,36.4,23.8,12.6,21,0.509,0.473,FALSE
+blockface,Territories,social,343,21.9,12.8,9,15.5,0.58,0.48,FALSE
+urban_blockface_excluded,CMA,material,146061,3.7,1.8,1.9,1.2,0.962,0.97,FALSE
+urban_blockface_excluded,CA,material,40552,5.5,2.5,3,2.2,0.944,0.954,FALSE
+urban_blockface_excluded,Strong MIZ,material,16351,12.9,5.9,6.9,4.1,0.866,0.896,FALSE
+urban_blockface_excluded,Moderate MIZ,material,10424,7.8,4,3.8,3,0.913,0.93,FALSE
+urban_blockface_excluded,Weak MIZ,material,7138,8.6,4.1,4.5,3.3,0.91,0.926,FALSE
+urban_blockface_excluded,No MIZ,material,233,28.8,26.6,2.1,28.3,0.247,0.201,FALSE
+urban_blockface_excluded,CMA,social,146061,3.4,1.7,1.7,1.4,0.962,0.965,FALSE
+urban_blockface_excluded,CA,social,40552,5.4,2.7,2.7,2,0.947,0.958,FALSE
+urban_blockface_excluded,Strong MIZ,social,16351,11.6,4.8,6.7,4.6,0.84,0.841,FALSE
+urban_blockface_excluded,Moderate MIZ,social,10424,8.8,4.7,4.1,2.8,0.917,0.94,FALSE
+urban_blockface_excluded,Weak MIZ,social,7138,7.7,4.3,3.3,2.4,0.919,0.939,FALSE
+urban_blockface_excluded,No MIZ,social,233,26.6,24,2.6,2.6,0.731,0.811,FALSE

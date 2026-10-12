@@ -1,0 +1,10 @@
+stratification,cells,cells_lt100,misclass_pseudoR2,misclass_brier_skill,logdist_R2,sameDA_R2
+None (national),1,0,0,0,0,0
+Province,13,0,0.008,0.0058,0.018,0.0107
+SAC,7,0,0.1173,0.1087,0.3555,0.1748
+DMT,7,0,0.2499,0.241,0.6384,0.3831
+Province x SAC,62,0,0.1358,0.13,0.3742,0.202
+Province x DMT,75,12,0.2566,0.2504,0.647,0.3893
+SAC x DMT,40,6,0.2525,0.2443,0.6474,0.3866
+Province x SAC x DMT3,159,36,0.2586,0.2525,0.6531,0.3914
+Province x SAC x DMT,298,103,0.2599,0.2527,0.6547,0.3928

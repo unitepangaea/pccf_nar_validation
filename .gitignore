@@ -1,0 +1,19 @@
+# Data are never committed, except the small Index of Remoteness file (Statistics
+# Canada Open Licence) and the README files that explain each folder.
+data/raw/*
+!data/raw/README.md
+!data/raw/IOR-2021/
+data/licensed/*
+!data/licensed/README.md
+data/derived/
+
+# Machine-specific settings
+config_local.R
+.Renviron
+
+# R and OS files
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+*.log

@@ -1,0 +1,79 @@
+dmt7,prov,N,pct_misclassified,median_m,pct_same_da,province
+A house,10,100416,6.9,77,88.6,NL
+B apartment,10,2477,8.8,85,91.2,NL
+H/T rural route,10,2283,34.6,3794,44,NL
+W rural,10,61557,19.9,1532,44.6,NL
+J/K/M PO box/GD,10,236,13.1,897,41.9,NL
+E/G business,10,76,0,101,100,NL
+Z/unknown,10,37,0,71,100,NL
+W rural,11,33783,55.2,5632,22,PE
+A house,11,26101,2.5,61,96.4,PE
+B apartment,11,1637,9.9,56,90.1,PE
+J/K/M PO box/GD,11,139,56.8,8001,16.5,PE
+Z/unknown,11,10,90,1592,10,PE
+H/T rural route,11,741,68.2,4699,22.1,PE
+W rural,12,140012,47.5,5891,22.4,NS
+A house,12,209341,5.3,81,91.1,NS
+J/K/M PO box/GD,12,600,35,4363,22.3,NS
+H/T rural route,12,10365,50,5368,31.1,NS
+Z/unknown,12,30,16.7,1141,66.7,NS
+B apartment,12,45525,3.1,67,96,NS
+E/G business,12,280,0,58,100,NS
+A house,13,288842,3.3,118,94.5,NB
+B apartment,13,13246,4.2,60,95.5,NB
+E/G business,13,314,0,114,86.9,NB
+Z/unknown,13,93,46.2,5466,41.9,NB
+J/K/M PO box/GD,13,114,20.2,1371,70.2,NB
+H/T rural route,13,26,23.1,1458,53.8,NB
+A house,24,2222261,4,61,93.6,QC
+J/K/M PO box/GD,24,2477,45.3,2539,48.8,QC
+W rural,24,626205,40.6,2635,37.2,QC
+B apartment,24,260460,2.4,52,95.4,QC
+H/T rural route,24,35116,34.6,2812,47.2,QC
+Z/unknown,24,155,23.9,528,67.1,QC
+E/G business,24,3689,1.8,44,98,QC
+W rural,35,650136,53.4,4275,22,ON
+H/T rural route,35,91391,46.3,3881,35.6,ON
+A house,35,2433604,5.4,65,91.2,ON
+J/K/M PO box/GD,35,7028,54.5,1347,18.2,ON
+B apartment,35,974243,2.8,54,94.8,ON
+E/G business,35,10710,3.1,47,92.9,ON
+Z/unknown,35,864,57.1,1792,3.1,ON
+W rural,46,78048,41.4,2200,38.3,MB
+A house,46,254324,3.8,69,94.1,MB
+J/K/M PO box/GD,46,1921,71.3,3327,12.1,MB
+B apartment,46,58755,3.9,56,93.5,MB
+H/T rural route,46,1040,48.4,4068,37.8,MB
+E/G business,46,411,1,33,99,MB
+Z/unknown,46,31,9.7,72,90.3,MB
+A house,47,182451,3.2,54,95.1,SK
+W rural,47,81631,48.1,799,35,SK
+J/K/M PO box/GD,47,661,39.2,3190,24.4,SK
+B apartment,47,26072,3.2,44,95.1,SK
+E/G business,47,434,21,88,79,SK
+Z/unknown,47,58,0,612,86.2,SK
+H/T rural route,47,564,31.7,1903,63.7,SK
+H/T rural route,48,2698,44.4,9010,35.7,AB
+A house,48,907423,5.3,68,91.3,AB
+J/K/M PO box/GD,48,8889,49.1,9980,19,AB
+W rural,48,145501,53.8,5533,27.8,AB
+Z/unknown,48,2386,74,2891,6.9,AB
+B apartment,48,153203,3,52,95.4,AB
+E/G business,48,2639,0.1,43,94.6,AB
+W rural,59,189080,42.1,1810,38.2,BC
+A house,59,1008718,6.4,64,89.9,BC
+J/K/M PO box/GD,59,5401,50.4,1298,30,BC
+H/T rural route,59,1425,47.1,3147,41.3,BC
+B apartment,59,332729,3.1,49,94.3,BC
+E/G business,59,4054,4.7,61,86.6,BC
+Z/unknown,59,315,81.9,2453,4.1,BC
+W rural,60,2920,30.2,1359,64.7,YT
+A house,60,8273,3.2,78,94.1,YT
+B apartment,60,481,29.9,95,70.1,YT
+H/T rural route,60,14,100,19963,0,YT
+W rural,61,2706,36.8,869,50.6,NT
+A house,61,4846,5,67,90.6,NT
+B apartment,61,883,0,54,100,NT
+E/G business,61,50,0,59,100,NT
+J/K/M PO box/GD,61,1,100,95493,0,NT
+W rural,62,4064,35.2,912,38,NU

@@ -1,0 +1,169 @@
+model,sample,delivery_mode,rurality,adjusted_prediction,N,modelled,adjusted_geomean_m,adjusted_pct
+m1_log10_distance,main,Urban letter carrier: house,CMA,1.81011305922191,6369695,TRUE,64,
+m1_log10_distance,main,Urban letter carrier: house,CA,1.85928747046847,1101130,TRUE,71,
+m1_log10_distance,main,Urban letter carrier: house,Strong MIZ,2.24975778521254,146009,TRUE,177,
+m1_log10_distance,main,Urban letter carrier: house,Moderate MIZ,2.04185048729485,214973,TRUE,109,
+m1_log10_distance,main,Urban letter carrier: house,Weak MIZ,2.03284697717958,155512,TRUE,107,
+m1_log10_distance,main,Urban letter carrier: house,No MIZ,2.53730931775704,2179,TRUE,344,
+m1_log10_distance,main,Urban letter carrier: house,Territories,,0,FALSE,,
+m1_log10_distance,main,Urban letter carrier: apartment,CMA,1.71376161098767,1946792,TRUE,51,
+m1_log10_distance,main,Urban letter carrier: apartment,CA,1.78224975109082,87055,TRUE,60,
+m1_log10_distance,main,Urban letter carrier: apartment,Strong MIZ,1.86959101718087,2785,TRUE,73,
+m1_log10_distance,main,Urban letter carrier: apartment,Moderate MIZ,1.79810268684783,9547,TRUE,62,
+m1_log10_distance,main,Urban letter carrier: apartment,Weak MIZ,1.76732077760586,6055,TRUE,58,
+m1_log10_distance,main,Urban letter carrier: apartment,No MIZ,,0,FALSE,,
+m1_log10_distance,main,Urban letter carrier: apartment,Territories,,0,FALSE,,
+m1_log10_distance,main,Business / large volume receiver,CMA,1.70614548974816,27241,TRUE,50,
+m1_log10_distance,main,Business / large volume receiver,CA,1.80757386981656,1962,TRUE,63,
+m1_log10_distance,main,Business / large volume receiver,Strong MIZ,,0,FALSE,,
+m1_log10_distance,main,Business / large volume receiver,Moderate MIZ,1.87127206309562,636,TRUE,73,
+m1_log10_distance,main,Business / large volume receiver,Weak MIZ,1.60524461244035,355,TRUE,39,
+m1_log10_distance,main,Business / large volume receiver,No MIZ,,0,FALSE,,
+m1_log10_distance,main,Business / large volume receiver,Territories,,0,FALSE,,
+m1_log10_distance,main,Rural postal code,CMA,3.38882902625944,356005,TRUE,2447,
+m1_log10_distance,main,Rural postal code,CA,3.41286334987008,180525,TRUE,2586,
+m1_log10_distance,main,Rural postal code,Strong MIZ,3.48047228750763,561079,TRUE,3022,
+m1_log10_distance,main,Rural postal code,Moderate MIZ,3.52529354745668,671303,TRUE,3351,
+m1_log10_distance,main,Rural postal code,Weak MIZ,3.38705646259576,326616,TRUE,2437,
+m1_log10_distance,main,Rural postal code,No MIZ,3.39896298771298,41729,TRUE,2505,
+m1_log10_distance,main,Rural postal code,Territories,3.14191893849249,9951,TRUE,1385,
+m1_log10_distance,main,Rural route / suburban service,CMA,3.40051331499891,49587,TRUE,2514,
+m1_log10_distance,main,Rural route / suburban service,CA,3.4703714194503,36687,TRUE,2953,
+m1_log10_distance,main,Rural route / suburban service,Strong MIZ,3.60910485728571,25442,TRUE,4064,
+m1_log10_distance,main,Rural route / suburban service,Moderate MIZ,3.67511069705291,28547,TRUE,4732,
+m1_log10_distance,main,Rural route / suburban service,Weak MIZ,3.61439015440605,15127,TRUE,4114,
+m1_log10_distance,main,Rural route / suburban service,No MIZ,,0,FALSE,,
+m1_log10_distance,main,Rural route / suburban service,Territories,,0,FALSE,,
+m1_log10_distance,main,PO box / general delivery / other,CMA,3.19843814063878,9054,TRUE,1578,
+m1_log10_distance,main,PO box / general delivery / other,CA,3.32712794305835,5776,TRUE,2123,
+m1_log10_distance,main,PO box / general delivery / other,Strong MIZ,3.55061404729917,4152,TRUE,3552,
+m1_log10_distance,main,PO box / general delivery / other,Moderate MIZ,3.58499878822009,5891,TRUE,3845,
+m1_log10_distance,main,PO box / general delivery / other,Weak MIZ,3.6077162738152,7268,TRUE,4051,
+m1_log10_distance,main,PO box / general delivery / other,No MIZ,4.02247059525366,117,TRUE,10530,
+m1_log10_distance,main,PO box / general delivery / other,Territories,,0,FALSE,,
+m2_abs_evi_diff_b1,main,Urban letter carrier: house,CMA,0.0111988044819075,6369425,TRUE,,
+m2_abs_evi_diff_b1,main,Urban letter carrier: house,CA,0.0152046301011913,1100871,TRUE,,
+m2_abs_evi_diff_b1,main,Urban letter carrier: house,Strong MIZ,0.0262636732803577,145875,TRUE,,
+m2_abs_evi_diff_b1,main,Urban letter carrier: house,Moderate MIZ,0.0210804211176506,214791,TRUE,,
+m2_abs_evi_diff_b1,main,Urban letter carrier: house,Weak MIZ,0.0219086486848372,155170,TRUE,,
+m2_abs_evi_diff_b1,main,Urban letter carrier: house,No MIZ,0.0421167874681663,2177,TRUE,,
+m2_abs_evi_diff_b1,main,Urban letter carrier: house,Territories,,0,FALSE,,
+m2_abs_evi_diff_b1,main,Urban letter carrier: apartment,CMA,0.00957188499895262,1946723,TRUE,,
+m2_abs_evi_diff_b1,main,Urban letter carrier: apartment,CA,0.0142893688604702,87055,TRUE,,
+m2_abs_evi_diff_b1,main,Urban letter carrier: apartment,Strong MIZ,0.0166466458385333,2785,TRUE,,
+m2_abs_evi_diff_b1,main,Urban letter carrier: apartment,Moderate MIZ,0.0170427990149176,9471,TRUE,,
+m2_abs_evi_diff_b1,main,Urban letter carrier: apartment,Weak MIZ,0.0184773676970431,6055,TRUE,,
+m2_abs_evi_diff_b1,main,Urban letter carrier: apartment,No MIZ,,0,FALSE,,
+m2_abs_evi_diff_b1,main,Urban letter carrier: apartment,Territories,,0,FALSE,,
+m2_abs_evi_diff_b1,main,Business / large volume receiver,CMA,0.00919177174931687,27241,TRUE,,
+m2_abs_evi_diff_b1,main,Business / large volume receiver,CA,0.00619247595481187,1962,TRUE,,
+m2_abs_evi_diff_b1,main,Business / large volume receiver,Strong MIZ,,0,FALSE,,
+m2_abs_evi_diff_b1,main,Business / large volume receiver,Moderate MIZ,0.0251172213977811,636,TRUE,,
+m2_abs_evi_diff_b1,main,Business / large volume receiver,Weak MIZ,0.0213751067601515,355,TRUE,,
+m2_abs_evi_diff_b1,main,Business / large volume receiver,No MIZ,,0,FALSE,,
+m2_abs_evi_diff_b1,main,Business / large volume receiver,Territories,,0,FALSE,,
+m2_abs_evi_diff_b1,main,Rural postal code,CMA,0.0787975619217189,355904,TRUE,,
+m2_abs_evi_diff_b1,main,Rural postal code,CA,0.0797153369811155,180395,TRUE,,
+m2_abs_evi_diff_b1,main,Rural postal code,Strong MIZ,0.084444074100892,560638,TRUE,,
+m2_abs_evi_diff_b1,main,Rural postal code,Moderate MIZ,0.0870032754688622,670136,TRUE,,
+m2_abs_evi_diff_b1,main,Rural postal code,Weak MIZ,0.075506373268524,324544,TRUE,,
+m2_abs_evi_diff_b1,main,Rural postal code,No MIZ,0.0779333040389019,41196,TRUE,,
+m2_abs_evi_diff_b1,main,Rural postal code,Territories,0.0422820636141776,4639,TRUE,,
+m2_abs_evi_diff_b1,main,Rural route / suburban service,CMA,0.0761918204665412,49587,TRUE,,
+m2_abs_evi_diff_b1,main,Rural route / suburban service,CA,0.079570511227012,36672,TRUE,,
+m2_abs_evi_diff_b1,main,Rural route / suburban service,Strong MIZ,0.0820526887367566,25438,TRUE,,
+m2_abs_evi_diff_b1,main,Rural route / suburban service,Moderate MIZ,0.0800160263261568,28547,TRUE,,
+m2_abs_evi_diff_b1,main,Rural route / suburban service,Weak MIZ,0.100880076491818,15127,TRUE,,
+m2_abs_evi_diff_b1,main,Rural route / suburban service,No MIZ,,0,FALSE,,
+m2_abs_evi_diff_b1,main,Rural route / suburban service,Territories,,0,FALSE,,
+m2_abs_evi_diff_b1,main,PO box / general delivery / other,CMA,0.0689713844543751,9054,TRUE,,
+m2_abs_evi_diff_b1,main,PO box / general delivery / other,CA,0.0780887625705504,5775,TRUE,,
+m2_abs_evi_diff_b1,main,PO box / general delivery / other,Strong MIZ,0.0753263550385405,4152,TRUE,,
+m2_abs_evi_diff_b1,main,PO box / general delivery / other,Moderate MIZ,0.0604663388480451,5886,TRUE,,
+m2_abs_evi_diff_b1,main,PO box / general delivery / other,Weak MIZ,0.0795513576628669,7266,TRUE,,
+m2_abs_evi_diff_b1,main,PO box / general delivery / other,No MIZ,0.102437473498125,116,TRUE,,
+m2_abs_evi_diff_b1,main,PO box / general delivery / other,Territories,,0,FALSE,,
+m3_material_misclassified,main,Urban letter carrier: house,CMA,0.04662059925135,6129346,TRUE,,4.7
+m3_material_misclassified,main,Urban letter carrier: house,CA,0.0566182078043092,1027736,TRUE,,5.7
+m3_material_misclassified,main,Urban letter carrier: house,Strong MIZ,0.102624748805489,139685,TRUE,,10.3
+m3_material_misclassified,main,Urban letter carrier: house,Moderate MIZ,0.0768519159518124,200140,TRUE,,7.7
+m3_material_misclassified,main,Urban letter carrier: house,Weak MIZ,0.0868439785544486,147861,TRUE,,8.7
+m3_material_misclassified,main,Urban letter carrier: house,No MIZ,0.0888507005393332,1829,TRUE,,8.9
+m3_material_misclassified,main,Urban letter carrier: house,Territories,,0,FALSE,,
+m3_material_misclassified,main,Urban letter carrier: apartment,CMA,0.0262562276077305,1785803,TRUE,,2.6
+m3_material_misclassified,main,Urban letter carrier: apartment,CA,0.0337057781610093,69941,TRUE,,3.4
+m3_material_misclassified,main,Urban letter carrier: apartment,Strong MIZ,0.057109706499181,1862,TRUE,,5.7
+m3_material_misclassified,main,Urban letter carrier: apartment,Moderate MIZ,0.0595346969840915,7450,TRUE,,6
+m3_material_misclassified,main,Urban letter carrier: apartment,Weak MIZ,0.0691338573129667,4654,TRUE,,6.9
+m3_material_misclassified,main,Urban letter carrier: apartment,No MIZ,,0,FALSE,,
+m3_material_misclassified,main,Urban letter carrier: apartment,Territories,,0,FALSE,,
+m3_material_misclassified,main,Business / large volume receiver,CMA,0.0262164300736804,21113,TRUE,,2.6
+m3_material_misclassified,main,Business / large volume receiver,CA,0.114377967852423,818,TRUE,,11.4
+m3_material_misclassified,main,Business / large volume receiver,Strong MIZ,,0,FALSE,,
+m3_material_misclassified,main,Business / large volume receiver,Moderate MIZ,3.63047640395232e-07,342,TRUE,,0
+m3_material_misclassified,main,Business / large volume receiver,Weak MIZ,0.0164840848140016,350,TRUE,,1.6
+m3_material_misclassified,main,Business / large volume receiver,No MIZ,,0,FALSE,,
+m3_material_misclassified,main,Business / large volume receiver,Territories,,0,FALSE,,
+m3_material_misclassified,main,Rural postal code,CMA,0.491882902545621,339477,TRUE,,49.2
+m3_material_misclassified,main,Rural postal code,CA,0.487010705335825,174058,TRUE,,48.7
+m3_material_misclassified,main,Rural postal code,Strong MIZ,0.493553070087076,535083,TRUE,,49.4
+m3_material_misclassified,main,Rural postal code,Moderate MIZ,0.440856903151632,618047,TRUE,,44.1
+m3_material_misclassified,main,Rural postal code,Weak MIZ,0.452259413701043,303327,TRUE,,45.2
+m3_material_misclassified,main,Rural postal code,No MIZ,0.287005227937499,35962,TRUE,,28.7
+m3_material_misclassified,main,Rural postal code,Territories,0.374499763855895,9689,TRUE,,37.4
+m3_material_misclassified,main,Rural route / suburban service,CMA,0.385313350469801,47865,TRUE,,38.5
+m3_material_misclassified,main,Rural route / suburban service,CA,0.47825908858471,33499,TRUE,,47.8
+m3_material_misclassified,main,Rural route / suburban service,Strong MIZ,0.416425913568921,23760,TRUE,,41.6
+m3_material_misclassified,main,Rural route / suburban service,Moderate MIZ,0.431685719535457,25464,TRUE,,43.2
+m3_material_misclassified,main,Rural route / suburban service,Weak MIZ,0.421624674083224,15000,TRUE,,42.2
+m3_material_misclassified,main,Rural route / suburban service,No MIZ,,0,FALSE,,
+m3_material_misclassified,main,Rural route / suburban service,Territories,,0,FALSE,,
+m3_material_misclassified,main,PO box / general delivery / other,CMA,0.447201544877918,7668,TRUE,,44.7
+m3_material_misclassified,main,PO box / general delivery / other,CA,0.511340284343161,5084,TRUE,,51.1
+m3_material_misclassified,main,PO box / general delivery / other,Strong MIZ,0.524597044758313,3420,TRUE,,52.5
+m3_material_misclassified,main,PO box / general delivery / other,Moderate MIZ,0.426096176484859,4933,TRUE,,42.6
+m3_material_misclassified,main,PO box / general delivery / other,Weak MIZ,0.557640131000439,6288,TRUE,,55.8
+m3_material_misclassified,main,PO box / general delivery / other,No MIZ,,0,FALSE,,
+m3_material_misclassified,main,PO box / general delivery / other,Territories,,0,FALSE,,
+m4_social_misclassified,main,Urban letter carrier: house,CMA,0.0460860213887096,6129346,TRUE,,4.6
+m4_social_misclassified,main,Urban letter carrier: house,CA,0.0581646173318756,1027736,TRUE,,5.8
+m4_social_misclassified,main,Urban letter carrier: house,Strong MIZ,0.0894508839619553,139685,TRUE,,8.9
+m4_social_misclassified,main,Urban letter carrier: house,Moderate MIZ,0.0809676734792363,200140,TRUE,,8.1
+m4_social_misclassified,main,Urban letter carrier: house,Weak MIZ,0.080422657670381,147861,TRUE,,8
+m4_social_misclassified,main,Urban letter carrier: house,No MIZ,0.120909969249188,1829,TRUE,,12.1
+m4_social_misclassified,main,Urban letter carrier: house,Territories,,0,FALSE,,
+m4_social_misclassified,main,Urban letter carrier: apartment,CMA,0.0267178510119824,1785803,TRUE,,2.7
+m4_social_misclassified,main,Urban letter carrier: apartment,CA,0.0367971231130438,69941,TRUE,,3.7
+m4_social_misclassified,main,Urban letter carrier: apartment,Strong MIZ,0.0639466513303646,1862,TRUE,,6.4
+m4_social_misclassified,main,Urban letter carrier: apartment,Moderate MIZ,0.0175276966331802,7450,TRUE,,1.8
+m4_social_misclassified,main,Urban letter carrier: apartment,Weak MIZ,0.0493797660666765,4654,TRUE,,4.9
+m4_social_misclassified,main,Urban letter carrier: apartment,No MIZ,,0,FALSE,,
+m4_social_misclassified,main,Urban letter carrier: apartment,Territories,,0,FALSE,,
+m4_social_misclassified,main,Business / large volume receiver,CMA,0.0282940595592189,21113,TRUE,,2.8
+m4_social_misclassified,main,Business / large volume receiver,CA,4.9606109441704e-08,818,TRUE,,0
+m4_social_misclassified,main,Business / large volume receiver,Strong MIZ,,0,FALSE,,
+m4_social_misclassified,main,Business / large volume receiver,Moderate MIZ,4.94147338548544e-08,342,TRUE,,0
+m4_social_misclassified,main,Business / large volume receiver,Weak MIZ,0.00531116323489546,350,TRUE,,0.5
+m4_social_misclassified,main,Business / large volume receiver,No MIZ,,0,FALSE,,
+m4_social_misclassified,main,Business / large volume receiver,Territories,,0,FALSE,,
+m4_social_misclassified,main,Rural postal code,CMA,0.50586641043421,339477,TRUE,,50.6
+m4_social_misclassified,main,Rural postal code,CA,0.498861250643082,174058,TRUE,,49.9
+m4_social_misclassified,main,Rural postal code,Strong MIZ,0.499994993143909,535083,TRUE,,50
+m4_social_misclassified,main,Rural postal code,Moderate MIZ,0.473740038025892,618047,TRUE,,47.4
+m4_social_misclassified,main,Rural postal code,Weak MIZ,0.501768606749991,303327,TRUE,,50.2
+m4_social_misclassified,main,Rural postal code,No MIZ,0.341143881115707,35962,TRUE,,34.1
+m4_social_misclassified,main,Rural postal code,Territories,0.37579255164322,9689,TRUE,,37.6
+m4_social_misclassified,main,Rural route / suburban service,CMA,0.38133070731135,47865,TRUE,,38.1
+m4_social_misclassified,main,Rural route / suburban service,CA,0.428832084653955,33499,TRUE,,42.9
+m4_social_misclassified,main,Rural route / suburban service,Strong MIZ,0.388511753159492,23760,TRUE,,38.9
+m4_social_misclassified,main,Rural route / suburban service,Moderate MIZ,0.380468873936797,25464,TRUE,,38
+m4_social_misclassified,main,Rural route / suburban service,Weak MIZ,0.424578680290244,15000,TRUE,,42.5
+m4_social_misclassified,main,Rural route / suburban service,No MIZ,,0,FALSE,,
+m4_social_misclassified,main,Rural route / suburban service,Territories,,0,FALSE,,
+m4_social_misclassified,main,PO box / general delivery / other,CMA,0.510901387617497,7668,TRUE,,51.1
+m4_social_misclassified,main,PO box / general delivery / other,CA,0.466243943893206,5084,TRUE,,46.6
+m4_social_misclassified,main,PO box / general delivery / other,Strong MIZ,0.492046273647641,3420,TRUE,,49.2
+m4_social_misclassified,main,PO box / general delivery / other,Moderate MIZ,0.490620186314835,4933,TRUE,,49.1
+m4_social_misclassified,main,PO box / general delivery / other,Weak MIZ,0.60109746993482,6288,TRUE,,60.1
+m4_social_misclassified,main,PO box / general delivery / other,No MIZ,,0,FALSE,,
+m4_social_misclassified,main,PO box / general delivery / other,Territories,,0,FALSE,,

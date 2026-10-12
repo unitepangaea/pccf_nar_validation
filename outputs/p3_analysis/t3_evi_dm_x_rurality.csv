@@ -1,0 +1,481 @@
+sample,delivery_mode,rurality,window,N,mean_ref,mean_pccf,bias,mae,rmse,pearson_r,small_cell
+main,Urban letter carrier: house,CMA,pix,6365350,0.31,0.311,4e-04,0.0198,0.0415,0.894,FALSE
+main,Urban letter carrier: house,CA,pix,1099491,0.341,0.342,7e-04,0.024,0.0479,0.88,FALSE
+main,Urban letter carrier: house,Strong MIZ,pix,145491,0.439,0.442,0.0029,0.0396,0.0672,0.791,FALSE
+main,Urban letter carrier: house,Moderate MIZ,pix,213710,0.403,0.405,0.002,0.0336,0.061,0.824,FALSE
+main,Urban letter carrier: house,Weak MIZ,pix,154143,0.389,0.39,6e-04,0.0332,0.0603,0.846,FALSE
+main,Urban letter carrier: house,No MIZ,pix,2161,0.458,0.468,0.0097,0.0651,0.1025,0.585,FALSE
+main,Urban letter carrier: house,Territories,pix,3,0.07,0.239,0.169,0.169,0.1694,,TRUE
+main,Urban letter carrier: apartment,CMA,pix,1945238,0.25,0.25,-7e-04,0.0186,0.0402,0.897,FALSE
+main,Urban letter carrier: apartment,CA,pix,86955,0.286,0.286,-8e-04,0.0239,0.0491,0.845,FALSE
+main,Urban letter carrier: apartment,Strong MIZ,pix,2785,0.391,0.386,-0.005,0.0398,0.0702,0.635,FALSE
+main,Urban letter carrier: apartment,Moderate MIZ,pix,9431,0.32,0.329,0.0088,0.0288,0.0525,0.805,FALSE
+main,Urban letter carrier: apartment,Weak MIZ,pix,6055,0.331,0.325,-0.0059,0.0304,0.06,0.79,FALSE
+main,Urban letter carrier: apartment,No MIZ,pix,1,0.233,0.235,0.0018,0.0018,0.0018,,TRUE
+main,Business / large volume receiver,CMA,pix,27228,0.224,0.224,1e-04,0.0157,0.0357,0.94,FALSE
+main,Business / large volume receiver,CA,pix,1962,0.285,0.292,0.0071,0.0113,0.0259,0.964,FALSE
+main,Business / large volume receiver,Strong MIZ,pix,35,0.32,0.297,-0.0228,0.0274,0.0447,0.837,TRUE
+main,Business / large volume receiver,Moderate MIZ,pix,636,0.362,0.326,-0.0361,0.0565,0.0932,0.639,FALSE
+main,Business / large volume receiver,Weak MIZ,pix,355,0.248,0.269,0.0213,0.0292,0.0435,0.929,FALSE
+main,Rural postal code,CMA,pix,355487,0.433,0.473,0.0393,0.0949,0.1238,0.405,FALSE
+main,Rural postal code,CA,pix,179527,0.437,0.481,0.0435,0.0924,0.122,0.432,FALSE
+main,Rural postal code,Strong MIZ,pix,559773,0.454,0.504,0.0502,0.1005,0.1297,0.334,FALSE
+main,Rural postal code,Moderate MIZ,pix,666924,0.431,0.477,0.0459,0.1013,0.132,0.423,FALSE
+main,Rural postal code,Weak MIZ,pix,321382,0.388,0.417,0.0292,0.0885,0.1173,0.485,FALSE
+main,Rural postal code,No MIZ,pix,40924,0.383,0.43,0.0469,0.0906,0.1231,0.554,FALSE
+main,Rural postal code,Territories,pix,4636,0.265,0.269,0.0041,0.0481,0.0646,0.627,FALSE
+main,Rural route / suburban service,CMA,pix,49584,0.478,0.516,0.0385,0.0928,0.1239,0.31,FALSE
+main,Rural route / suburban service,CA,pix,36546,0.478,0.509,0.0314,0.0955,0.1263,0.379,FALSE
+main,Rural route / suburban service,Strong MIZ,pix,25381,0.499,0.538,0.039,0.092,0.1233,0.237,FALSE
+main,Rural route / suburban service,Moderate MIZ,pix,28547,0.493,0.545,0.0518,0.0909,0.1248,0.052,FALSE
+main,Rural route / suburban service,Weak MIZ,pix,15125,0.488,0.535,0.0472,0.1106,0.1469,0.229,FALSE
+main,Rural route / suburban service,No MIZ,pix,83,0.541,0.543,0.0025,0.0606,0.0736,0.025,TRUE
+main,PO box / general delivery / other,CMA,pix,9053,0.351,0.375,0.0237,0.0862,0.1163,0.457,FALSE
+main,PO box / general delivery / other,CA,pix,5773,0.348,0.351,0.0032,0.0923,0.1201,0.527,FALSE
+main,PO box / general delivery / other,Strong MIZ,pix,4150,0.442,0.457,0.0154,0.0904,0.1206,0.158,FALSE
+main,PO box / general delivery / other,Moderate MIZ,pix,5880,0.369,0.379,0.0097,0.0761,0.1061,0.676,FALSE
+main,PO box / general delivery / other,Weak MIZ,pix,7259,0.357,0.377,0.0203,0.0895,0.1258,0.403,FALSE
+main,PO box / general delivery / other,No MIZ,pix,116,0.342,0.412,0.0691,0.1003,0.129,0.311,FALSE
+main,PO box / general delivery / other,Territories,pix,1,0.254,0.216,-0.0384,0.0384,0.0384,,TRUE
+main,Unknown / retired,CMA,pix,4242,0.254,0.315,0.0615,0.1001,0.141,0.195,FALSE
+main,Unknown / retired,CA,pix,250,0.312,0.351,0.0383,0.0889,0.128,0.354,FALSE
+main,Unknown / retired,Strong MIZ,pix,316,0.414,0.433,0.0194,0.106,0.1287,0.016,FALSE
+main,Unknown / retired,Moderate MIZ,pix,281,0.445,0.417,-0.0278,0.0961,0.1269,0.361,FALSE
+main,Unknown / retired,Weak MIZ,pix,108,0.342,0.361,0.0192,0.1044,0.1262,0.215,FALSE
+main,Unknown / retired,No MIZ,pix,2,0.298,0.614,0.3164,0.3164,0.4008,,TRUE
+main,Unknown / retired,Territories,pix,160,0.315,0.241,-0.0733,0.0987,0.1284,-0.016,FALSE
+main,Urban letter carrier: house,CMA,b1,6369425,0.317,0.317,2e-04,0.0112,0.0241,0.961,FALSE
+main,Urban letter carrier: house,CA,b1,1100871,0.349,0.349,6e-04,0.0146,0.0302,0.947,FALSE
+main,Urban letter carrier: house,Strong MIZ,b1,145875,0.447,0.449,0.0025,0.0271,0.0484,0.875,FALSE
+main,Urban letter carrier: house,Moderate MIZ,b1,214791,0.411,0.413,0.0015,0.0226,0.0428,0.896,FALSE
+main,Urban letter carrier: house,Weak MIZ,b1,155170,0.394,0.395,5e-04,0.0226,0.042,0.909,FALSE
+main,Urban letter carrier: house,No MIZ,b1,2177,0.449,0.455,0.006,0.044,0.0707,0.788,FALSE
+main,Urban letter carrier: house,Territories,b1,3,0.056,0.181,0.1248,0.1248,0.1249,,TRUE
+main,Urban letter carrier: apartment,CMA,b1,1946723,0.262,0.262,-2e-04,0.0098,0.0216,0.967,FALSE
+main,Urban letter carrier: apartment,CA,b1,87055,0.3,0.3,7e-04,0.0132,0.0273,0.946,FALSE
+main,Urban letter carrier: apartment,Strong MIZ,b1,2785,0.39,0.388,-0.0014,0.0174,0.0308,0.911,FALSE
+main,Urban letter carrier: apartment,Moderate MIZ,b1,9471,0.339,0.343,0.0039,0.0166,0.0312,0.908,FALSE
+main,Urban letter carrier: apartment,Weak MIZ,b1,6055,0.338,0.337,-0.0014,0.0171,0.0316,0.927,FALSE
+main,Urban letter carrier: apartment,No MIZ,b1,1,0.249,0.221,-0.0281,0.0281,0.0281,,TRUE
+main,Business / large volume receiver,CMA,b1,27241,0.239,0.24,0.001,0.0092,0.0215,0.977,FALSE
+main,Business / large volume receiver,CA,b1,1962,0.307,0.307,-6e-04,0.0059,0.0145,0.988,FALSE
+main,Business / large volume receiver,Strong MIZ,b1,35,0.353,0.331,-0.0218,0.022,0.0373,0.87,TRUE
+main,Business / large volume receiver,Moderate MIZ,b1,636,0.355,0.336,-0.019,0.0256,0.046,0.879,FALSE
+main,Business / large volume receiver,Weak MIZ,b1,355,0.281,0.288,0.0069,0.0195,0.0269,0.953,FALSE
+main,Rural postal code,CMA,b1,355904,0.444,0.473,0.0299,0.0792,0.1047,0.475,FALSE
+main,Rural postal code,CA,b1,180395,0.441,0.476,0.0353,0.0797,0.1071,0.5,FALSE
+main,Rural postal code,Strong MIZ,b1,560638,0.462,0.503,0.0406,0.0847,0.1111,0.406,FALSE
+main,Rural postal code,Moderate MIZ,b1,670136,0.435,0.475,0.0402,0.0865,0.1143,0.491,FALSE
+main,Rural postal code,Weak MIZ,b1,324544,0.393,0.418,0.0253,0.0743,0.1004,0.555,FALSE
+main,Rural postal code,No MIZ,b1,41196,0.389,0.431,0.0414,0.0755,0.1062,0.618,FALSE
+main,Rural postal code,Territories,b1,4639,0.269,0.277,0.0079,0.0371,0.0527,0.738,FALSE
+main,Rural route / suburban service,CMA,b1,49587,0.48,0.513,0.0325,0.0773,0.1061,0.406,FALSE
+main,Rural route / suburban service,CA,b1,36672,0.481,0.504,0.0228,0.0805,0.1104,0.453,FALSE
+main,Rural route / suburban service,Strong MIZ,b1,25438,0.499,0.534,0.0343,0.0827,0.1135,0.332,FALSE
+main,Rural route / suburban service,Moderate MIZ,b1,28547,0.489,0.537,0.0476,0.0812,0.1099,0.143,FALSE
+main,Rural route / suburban service,Weak MIZ,b1,15127,0.481,0.526,0.0449,0.1021,0.1337,0.343,FALSE
+main,Rural route / suburban service,No MIZ,b1,83,0.539,0.53,-0.0089,0.0425,0.0599,-0.05,TRUE
+main,PO box / general delivery / other,CMA,b1,9054,0.365,0.373,0.0088,0.0688,0.0949,0.577,FALSE
+main,PO box / general delivery / other,CA,b1,5775,0.36,0.355,-0.0049,0.0763,0.0987,0.618,FALSE
+main,PO box / general delivery / other,Strong MIZ,b1,4152,0.451,0.453,0.0017,0.0748,0.1011,0.189,FALSE
+main,PO box / general delivery / other,Moderate MIZ,b1,5886,0.378,0.388,0.0101,0.0586,0.0839,0.741,FALSE
+main,PO box / general delivery / other,Weak MIZ,b1,7266,0.36,0.376,0.0152,0.0775,0.1052,0.53,FALSE
+main,PO box / general delivery / other,No MIZ,b1,116,0.327,0.405,0.0776,0.1,0.1222,0.366,FALSE
+main,PO box / general delivery / other,Territories,b1,1,0.228,0.168,-0.0599,0.0599,0.0599,,TRUE
+main,Unknown / retired,CMA,b1,4243,0.28,0.318,0.0379,0.0823,0.1172,0.252,FALSE
+main,Unknown / retired,CA,b1,250,0.335,0.354,0.0188,0.0731,0.1031,0.442,FALSE
+main,Unknown / retired,Strong MIZ,b1,316,0.418,0.417,-6e-04,0.0777,0.103,0.198,FALSE
+main,Unknown / retired,Moderate MIZ,b1,316,0.45,0.424,-0.026,0.0822,0.1108,0.397,FALSE
+main,Unknown / retired,Weak MIZ,b1,108,0.317,0.373,0.0562,0.0955,0.1274,0.239,FALSE
+main,Unknown / retired,No MIZ,b1,2,0.373,0.59,0.2169,0.2169,0.2859,,TRUE
+main,Unknown / retired,Territories,b1,160,0.307,0.247,-0.0595,0.0799,0.1001,-0.092,FALSE
+main,Urban letter carrier: house,CMA,b2,6369606,0.321,0.322,1e-04,0.0079,0.0177,0.979,FALSE
+main,Urban letter carrier: house,CA,b2,1101073,0.354,0.355,4e-04,0.0109,0.0233,0.967,FALSE
+main,Urban letter carrier: house,Strong MIZ,b2,145959,0.453,0.455,0.0016,0.021,0.0398,0.909,FALSE
+main,Urban letter carrier: house,Moderate MIZ,b2,214889,0.418,0.42,0.0011,0.0174,0.0342,0.924,FALSE
+main,Urban letter carrier: house,Weak MIZ,b2,155301,0.399,0.399,4e-04,0.017,0.0327,0.938,FALSE
+main,Urban letter carrier: house,No MIZ,b2,2178,0.445,0.449,0.0037,0.0343,0.0575,0.857,FALSE
+main,Urban letter carrier: house,Territories,b2,3,0.029,0.152,0.123,0.123,0.123,,TRUE
+main,Urban letter carrier: apartment,CMA,b2,1946792,0.271,0.271,0,0.0064,0.0149,0.983,FALSE
+main,Urban letter carrier: apartment,CA,b2,87055,0.309,0.31,8e-04,0.0094,0.0203,0.969,FALSE
+main,Urban letter carrier: apartment,Strong MIZ,b2,2785,0.39,0.391,0.0011,0.0114,0.0205,0.959,FALSE
+main,Urban letter carrier: apartment,Moderate MIZ,b2,9547,0.357,0.359,0.0021,0.0111,0.0228,0.948,FALSE
+main,Urban letter carrier: apartment,Weak MIZ,b2,6055,0.352,0.352,2e-04,0.0105,0.0193,0.968,FALSE
+main,Urban letter carrier: apartment,No MIZ,b2,1,0.245,0.235,-0.0105,0.0105,0.0105,,TRUE
+main,Business / large volume receiver,CMA,b2,27241,0.252,0.252,4e-04,0.006,0.0143,0.989,FALSE
+main,Business / large volume receiver,CA,b2,1962,0.324,0.318,-0.0055,0.0067,0.016,0.988,FALSE
+main,Business / large volume receiver,Strong MIZ,b2,35,0.36,0.338,-0.0219,0.0219,0.0367,0.792,TRUE
+main,Business / large volume receiver,Moderate MIZ,b2,636,0.37,0.358,-0.012,0.0201,0.0394,0.886,FALSE
+main,Business / large volume receiver,Weak MIZ,b2,355,0.309,0.314,0.0051,0.0116,0.0189,0.98,FALSE
+main,Rural postal code,CMA,b2,355976,0.452,0.475,0.0233,0.0687,0.0931,0.532,FALSE
+main,Rural postal code,CA,b2,180524,0.444,0.474,0.0305,0.0725,0.0996,0.544,FALSE
+main,Rural postal code,Strong MIZ,b2,560939,0.471,0.503,0.0327,0.0738,0.1003,0.465,FALSE
+main,Rural postal code,Moderate MIZ,b2,670957,0.441,0.474,0.0336,0.0764,0.1034,0.544,FALSE
+main,Rural postal code,Weak MIZ,b2,325230,0.398,0.42,0.0221,0.0657,0.0912,0.598,FALSE
+main,Rural postal code,No MIZ,b2,41283,0.393,0.43,0.0368,0.0673,0.097,0.661,FALSE
+main,Rural postal code,Territories,b2,4639,0.268,0.282,0.0143,0.0331,0.0486,0.767,FALSE
+main,Rural route / suburban service,CMA,b2,49587,0.481,0.509,0.0276,0.068,0.0961,0.482,FALSE
+main,Rural route / suburban service,CA,b2,36683,0.481,0.498,0.0172,0.0734,0.1028,0.489,FALSE
+main,Rural route / suburban service,Strong MIZ,b2,25442,0.499,0.528,0.0287,0.0766,0.1087,0.399,FALSE
+main,Rural route / suburban service,Moderate MIZ,b2,28547,0.487,0.529,0.0412,0.0748,0.1023,0.227,FALSE
+main,Rural route / suburban service,Weak MIZ,b2,15127,0.479,0.515,0.0362,0.0908,0.1205,0.448,FALSE
+main,Rural route / suburban service,No MIZ,b2,83,0.536,0.521,-0.0149,0.0361,0.0598,-0.075,TRUE
+main,PO box / general delivery / other,CMA,b2,9054,0.377,0.379,0.0023,0.0589,0.0862,0.647,FALSE
+main,PO box / general delivery / other,CA,b2,5775,0.364,0.357,-0.0065,0.0719,0.0935,0.627,FALSE
+main,PO box / general delivery / other,Strong MIZ,b2,4152,0.459,0.456,-0.0026,0.0711,0.0961,0.185,FALSE
+main,PO box / general delivery / other,Moderate MIZ,b2,5891,0.381,0.39,0.0091,0.05,0.0739,0.768,FALSE
+main,PO box / general delivery / other,Weak MIZ,b2,7267,0.367,0.376,0.0092,0.0689,0.0955,0.579,FALSE
+main,PO box / general delivery / other,No MIZ,b2,116,0.32,0.399,0.0791,0.0994,0.1204,0.352,FALSE
+main,PO box / general delivery / other,Territories,b2,1,0.232,0.136,-0.0953,0.0953,0.0953,,TRUE
+main,Unknown / retired,CMA,b2,4243,0.304,0.33,0.0261,0.0726,0.1025,0.277,FALSE
+main,Unknown / retired,CA,b2,250,0.354,0.365,0.0111,0.0621,0.086,0.53,FALSE
+main,Unknown / retired,Strong MIZ,b2,316,0.423,0.42,-0.0029,0.082,0.1061,0.12,FALSE
+main,Unknown / retired,Moderate MIZ,b2,316,0.459,0.427,-0.0326,0.0784,0.1061,0.426,FALSE
+main,Unknown / retired,Weak MIZ,b2,108,0.352,0.384,0.0326,0.079,0.1023,0.297,FALSE
+main,Unknown / retired,No MIZ,b2,2,0.392,0.576,0.1837,0.1837,0.2553,,TRUE
+main,Unknown / retired,Territories,b2,160,0.317,0.255,-0.0617,0.0717,0.0838,-0.057,FALSE
+building,Urban letter carrier: house,CMA,pix,6248187,0.311,0.311,4e-04,0.0196,0.0411,0.896,FALSE
+building,Urban letter carrier: house,CA,pix,1095210,0.341,0.342,7e-04,0.024,0.0479,0.88,FALSE
+building,Urban letter carrier: house,Strong MIZ,pix,143770,0.44,0.442,0.0028,0.0397,0.0673,0.791,FALSE
+building,Urban letter carrier: house,Moderate MIZ,pix,211961,0.403,0.405,0.002,0.0334,0.0607,0.826,FALSE
+building,Urban letter carrier: house,Weak MIZ,pix,152784,0.389,0.389,6e-04,0.033,0.06,0.848,FALSE
+building,Urban letter carrier: house,No MIZ,pix,2148,0.459,0.468,0.0098,0.0654,0.1027,0.583,FALSE
+building,Urban letter carrier: house,Territories,pix,3,0.07,0.239,0.169,0.169,0.1694,,TRUE
+building,Urban letter carrier: apartment,CMA,pix,1932218,0.25,0.25,-7e-04,0.0185,0.04,0.898,FALSE
+building,Urban letter carrier: apartment,CA,pix,86553,0.287,0.286,-9e-04,0.0239,0.0491,0.846,FALSE
+building,Urban letter carrier: apartment,Strong MIZ,pix,2785,0.391,0.386,-0.005,0.0398,0.0702,0.635,FALSE
+building,Urban letter carrier: apartment,Moderate MIZ,pix,9421,0.32,0.328,0.0088,0.0288,0.0525,0.805,FALSE
+building,Urban letter carrier: apartment,Weak MIZ,pix,6054,0.331,0.325,-0.0059,0.0304,0.0598,0.792,FALSE
+building,Urban letter carrier: apartment,No MIZ,pix,1,0.233,0.235,0.0018,0.0018,0.0018,,TRUE
+building,Business / large volume receiver,CMA,pix,27042,0.223,0.223,-4e-04,0.0153,0.0351,0.94,FALSE
+building,Business / large volume receiver,CA,pix,1922,0.285,0.292,0.0072,0.0115,0.0261,0.964,FALSE
+building,Business / large volume receiver,Strong MIZ,pix,35,0.32,0.297,-0.0228,0.0274,0.0447,0.837,TRUE
+building,Business / large volume receiver,Moderate MIZ,pix,636,0.362,0.326,-0.0361,0.0565,0.0932,0.639,FALSE
+building,Business / large volume receiver,Weak MIZ,pix,345,0.239,0.261,0.0219,0.0301,0.0442,0.909,FALSE
+building,Rural postal code,CMA,pix,257481,0.438,0.473,0.0351,0.0928,0.1217,0.421,FALSE
+building,Rural postal code,CA,pix,135662,0.44,0.48,0.0394,0.0901,0.1196,0.443,FALSE
+building,Rural postal code,Strong MIZ,pix,438846,0.455,0.505,0.0493,0.1002,0.1293,0.35,FALSE
+building,Rural postal code,Moderate MIZ,pix,501521,0.431,0.474,0.0426,0.0993,0.1295,0.453,FALSE
+building,Rural postal code,Weak MIZ,pix,240826,0.392,0.42,0.0272,0.0874,0.1164,0.51,FALSE
+building,Rural postal code,No MIZ,pix,26933,0.388,0.443,0.0547,0.0971,0.1317,0.56,FALSE
+building,Rural postal code,Territories,pix,4312,0.262,0.266,0.0048,0.049,0.0656,0.624,FALSE
+building,Rural route / suburban service,CMA,pix,33672,0.469,0.513,0.0438,0.0964,0.1284,0.325,FALSE
+building,Rural route / suburban service,CA,pix,25504,0.465,0.499,0.0336,0.0984,0.1308,0.393,FALSE
+building,Rural route / suburban service,Strong MIZ,pix,10719,0.49,0.54,0.0499,0.0949,0.128,0.192,FALSE
+building,Rural route / suburban service,Moderate MIZ,pix,13980,0.499,0.532,0.0325,0.0818,0.1115,0.112,FALSE
+building,Rural route / suburban service,Weak MIZ,pix,8479,0.505,0.564,0.0597,0.1071,0.1402,0.181,FALSE
+building,Rural route / suburban service,No MIZ,pix,82,0.543,0.545,0.0018,0.0606,0.0737,-0.108,TRUE
+building,PO box / general delivery / other,CMA,pix,7210,0.343,0.372,0.0288,0.0883,0.1181,0.485,FALSE
+building,PO box / general delivery / other,CA,pix,5225,0.349,0.349,6e-04,0.0907,0.119,0.517,FALSE
+building,PO box / general delivery / other,Strong MIZ,pix,1808,0.441,0.445,0.0042,0.0984,0.1264,0.206,FALSE
+building,PO box / general delivery / other,Moderate MIZ,pix,4989,0.359,0.37,0.0108,0.0735,0.1019,0.691,FALSE
+building,PO box / general delivery / other,Weak MIZ,pix,5294,0.353,0.377,0.0242,0.0911,0.1299,0.443,FALSE
+building,PO box / general delivery / other,No MIZ,pix,80,0.327,0.412,0.0858,0.1145,0.1428,0.064,TRUE
+building,PO box / general delivery / other,Territories,pix,1,0.254,0.216,-0.0384,0.0384,0.0384,,TRUE
+building,Unknown / retired,CMA,pix,2770,0.268,0.349,0.081,0.1191,0.1623,0.081,FALSE
+building,Unknown / retired,CA,pix,244,0.308,0.347,0.0387,0.0892,0.1288,0.31,FALSE
+building,Unknown / retired,Strong MIZ,pix,296,0.415,0.432,0.0178,0.1036,0.1262,0.021,FALSE
+building,Unknown / retired,Moderate MIZ,pix,253,0.444,0.417,-0.0268,0.0933,0.1227,0.398,FALSE
+building,Unknown / retired,Weak MIZ,pix,107,0.341,0.36,0.0191,0.1051,0.1267,0.209,FALSE
+building,Unknown / retired,No MIZ,pix,2,0.298,0.614,0.3164,0.3164,0.4008,,TRUE
+building,Unknown / retired,Territories,pix,160,0.315,0.241,-0.0733,0.0987,0.1284,-0.016,FALSE
+building,Urban letter carrier: house,CMA,b1,6252259,0.317,0.317,2e-04,0.0111,0.0239,0.961,FALSE
+building,Urban letter carrier: house,CA,b1,1096590,0.349,0.349,6e-04,0.0146,0.0302,0.947,FALSE
+building,Urban letter carrier: house,Strong MIZ,b1,144153,0.447,0.45,0.0024,0.0271,0.0484,0.875,FALSE
+building,Urban letter carrier: house,Moderate MIZ,b1,213028,0.411,0.412,0.0016,0.0224,0.0425,0.898,FALSE
+building,Urban letter carrier: house,Weak MIZ,b1,153807,0.394,0.394,5e-04,0.0224,0.0416,0.911,FALSE
+building,Urban letter carrier: house,No MIZ,b1,2164,0.449,0.455,0.0061,0.0441,0.0709,0.787,FALSE
+building,Urban letter carrier: house,Territories,b1,3,0.056,0.181,0.1248,0.1248,0.1249,,TRUE
+building,Urban letter carrier: apartment,CMA,b1,1933703,0.262,0.262,-2e-04,0.0097,0.0215,0.967,FALSE
+building,Urban letter carrier: apartment,CA,b1,86653,0.3,0.3,8e-04,0.0131,0.0273,0.946,FALSE
+building,Urban letter carrier: apartment,Strong MIZ,b1,2785,0.39,0.388,-0.0014,0.0174,0.0308,0.911,FALSE
+building,Urban letter carrier: apartment,Moderate MIZ,b1,9461,0.339,0.343,0.0039,0.0166,0.0312,0.908,FALSE
+building,Urban letter carrier: apartment,Weak MIZ,b1,6054,0.338,0.337,-0.0014,0.017,0.0311,0.929,FALSE
+building,Urban letter carrier: apartment,No MIZ,b1,1,0.249,0.221,-0.0281,0.0281,0.0281,,TRUE
+building,Business / large volume receiver,CMA,b1,27055,0.238,0.239,0.001,0.0092,0.0215,0.976,FALSE
+building,Business / large volume receiver,CA,b1,1922,0.307,0.307,-6e-04,0.0061,0.0147,0.988,FALSE
+building,Business / large volume receiver,Strong MIZ,b1,35,0.353,0.331,-0.0218,0.022,0.0373,0.87,TRUE
+building,Business / large volume receiver,Moderate MIZ,b1,636,0.355,0.336,-0.019,0.0256,0.046,0.879,FALSE
+building,Business / large volume receiver,Weak MIZ,b1,345,0.277,0.284,0.0071,0.0201,0.0273,0.948,FALSE
+building,Rural postal code,CMA,b1,257886,0.447,0.473,0.0265,0.0785,0.1042,0.487,FALSE
+building,Rural postal code,CA,b1,136508,0.444,0.476,0.0311,0.0767,0.1039,0.516,FALSE
+building,Rural postal code,Strong MIZ,b1,439689,0.465,0.504,0.0392,0.0838,0.11,0.424,FALSE
+building,Rural postal code,Moderate MIZ,b1,504566,0.437,0.472,0.0351,0.0837,0.1107,0.53,FALSE
+building,Rural postal code,Weak MIZ,b1,243729,0.396,0.421,0.0245,0.0742,0.1003,0.576,FALSE
+building,Rural postal code,No MIZ,b1,27085,0.394,0.443,0.049,0.0818,0.1149,0.608,FALSE
+building,Rural postal code,Territories,b1,4315,0.266,0.274,0.0082,0.0379,0.0537,0.737,FALSE
+building,Rural route / suburban service,CMA,b1,33675,0.472,0.509,0.0368,0.08,0.1094,0.421,FALSE
+building,Rural route / suburban service,CA,b1,25618,0.468,0.493,0.0251,0.0829,0.1138,0.463,FALSE
+building,Rural route / suburban service,Strong MIZ,b1,10757,0.494,0.534,0.0405,0.0832,0.1139,0.275,FALSE
+building,Rural route / suburban service,Moderate MIZ,b1,13980,0.501,0.529,0.0278,0.0712,0.098,0.173,FALSE
+building,Rural route / suburban service,Weak MIZ,b1,8481,0.503,0.556,0.0537,0.1001,0.1307,0.252,FALSE
+building,Rural route / suburban service,No MIZ,b1,82,0.542,0.532,-0.0097,0.0424,0.06,-0.365,TRUE
+building,PO box / general delivery / other,CMA,b1,7211,0.357,0.371,0.0148,0.072,0.0967,0.594,FALSE
+building,PO box / general delivery / other,CA,b1,5227,0.361,0.354,-0.0072,0.0742,0.0963,0.617,FALSE
+building,PO box / general delivery / other,Strong MIZ,b1,1810,0.451,0.442,-0.0094,0.0832,0.1114,0.238,FALSE
+building,PO box / general delivery / other,Moderate MIZ,b1,4995,0.37,0.38,0.0098,0.0561,0.0807,0.757,FALSE
+building,PO box / general delivery / other,Weak MIZ,b1,5301,0.356,0.371,0.0154,0.0801,0.1071,0.58,FALSE
+building,PO box / general delivery / other,No MIZ,b1,80,0.324,0.408,0.0835,0.1084,0.1331,0.016,TRUE
+building,PO box / general delivery / other,Territories,b1,1,0.228,0.168,-0.0599,0.0599,0.0599,,TRUE
+building,Unknown / retired,CMA,b1,2771,0.293,0.346,0.0521,0.1017,0.1365,0.146,FALSE
+building,Unknown / retired,CA,b1,244,0.332,0.352,0.0198,0.0728,0.1028,0.427,FALSE
+building,Unknown / retired,Strong MIZ,b1,296,0.418,0.416,-0.0024,0.0758,0.1006,0.202,FALSE
+building,Unknown / retired,Moderate MIZ,b1,288,0.449,0.425,-0.0246,0.0796,0.1061,0.443,FALSE
+building,Unknown / retired,Weak MIZ,b1,107,0.316,0.372,0.0561,0.0958,0.1278,0.233,FALSE
+building,Unknown / retired,No MIZ,b1,2,0.373,0.59,0.2169,0.2169,0.2859,,TRUE
+building,Unknown / retired,Territories,b1,160,0.307,0.247,-0.0595,0.0799,0.1001,-0.092,FALSE
+building,Urban letter carrier: house,CMA,b2,6252439,0.321,0.321,2e-04,0.0078,0.0176,0.979,FALSE
+building,Urban letter carrier: house,CA,b2,1096792,0.354,0.355,5e-04,0.0109,0.0233,0.967,FALSE
+building,Urban letter carrier: house,Strong MIZ,b2,144237,0.453,0.455,0.0015,0.0211,0.0399,0.909,FALSE
+building,Urban letter carrier: house,Moderate MIZ,b2,213125,0.418,0.419,0.0011,0.0172,0.0339,0.925,FALSE
+building,Urban letter carrier: house,Weak MIZ,b2,153938,0.399,0.399,4e-04,0.0168,0.0324,0.939,FALSE
+building,Urban letter carrier: house,No MIZ,b2,2165,0.446,0.45,0.0038,0.0344,0.0576,0.857,FALSE
+building,Urban letter carrier: house,Territories,b2,3,0.029,0.152,0.123,0.123,0.123,,TRUE
+building,Urban letter carrier: apartment,CMA,b2,1933772,0.271,0.271,0,0.0064,0.0149,0.983,FALSE
+building,Urban letter carrier: apartment,CA,b2,86653,0.309,0.31,8e-04,0.0093,0.0203,0.969,FALSE
+building,Urban letter carrier: apartment,Strong MIZ,b2,2785,0.39,0.391,0.0011,0.0114,0.0205,0.959,FALSE
+building,Urban letter carrier: apartment,Moderate MIZ,b2,9537,0.357,0.359,0.0021,0.0111,0.0228,0.948,FALSE
+building,Urban letter carrier: apartment,Weak MIZ,b2,6054,0.352,0.352,2e-04,0.0105,0.0185,0.971,FALSE
+building,Urban letter carrier: apartment,No MIZ,b2,1,0.245,0.235,-0.0105,0.0105,0.0105,,TRUE
+building,Business / large volume receiver,CMA,b2,27055,0.251,0.251,4e-04,0.006,0.0143,0.989,FALSE
+building,Business / large volume receiver,CA,b2,1922,0.324,0.318,-0.0056,0.0068,0.0162,0.988,FALSE
+building,Business / large volume receiver,Strong MIZ,b2,35,0.36,0.338,-0.0219,0.0219,0.0367,0.792,TRUE
+building,Business / large volume receiver,Moderate MIZ,b2,636,0.37,0.358,-0.012,0.0201,0.0394,0.886,FALSE
+building,Business / large volume receiver,Weak MIZ,b2,345,0.305,0.31,0.0053,0.0119,0.0192,0.978,FALSE
+building,Rural postal code,CMA,b2,257958,0.454,0.475,0.0211,0.0691,0.0936,0.543,FALSE
+building,Rural postal code,CA,b2,136625,0.447,0.474,0.0268,0.0697,0.0964,0.561,FALSE
+building,Rural postal code,Strong MIZ,b2,439943,0.473,0.504,0.0308,0.0722,0.0981,0.488,FALSE
+building,Rural postal code,Moderate MIZ,b2,505303,0.443,0.471,0.0283,0.0732,0.0992,0.589,FALSE
+building,Rural postal code,Weak MIZ,b2,244276,0.4,0.422,0.0219,0.066,0.0915,0.615,FALSE
+building,Rural postal code,No MIZ,b2,27093,0.398,0.442,0.0442,0.0745,0.1063,0.636,FALSE
+building,Rural postal code,Territories,b2,4315,0.266,0.281,0.0152,0.0337,0.0493,0.771,FALSE
+building,Rural route / suburban service,CMA,b2,33675,0.473,0.504,0.0308,0.0696,0.0975,0.504,FALSE
+building,Rural route / suburban service,CA,b2,25628,0.469,0.488,0.0187,0.0752,0.1056,0.497,FALSE
+building,Rural route / suburban service,Strong MIZ,b2,10761,0.496,0.528,0.0322,0.076,0.107,0.346,FALSE
+building,Rural route / suburban service,Moderate MIZ,b2,13980,0.5,0.526,0.0257,0.0655,0.0921,0.224,FALSE
+building,Rural route / suburban service,Weak MIZ,b2,8481,0.504,0.548,0.0448,0.0904,0.1197,0.331,FALSE
+building,Rural route / suburban service,No MIZ,b2,82,0.538,0.522,-0.016,0.0357,0.0597,-0.447,TRUE
+building,PO box / general delivery / other,CMA,b2,7211,0.368,0.376,0.0078,0.0614,0.0875,0.661,FALSE
+building,PO box / general delivery / other,CA,b2,5227,0.366,0.357,-0.0088,0.0695,0.0905,0.637,FALSE
+building,PO box / general delivery / other,Strong MIZ,b2,1810,0.454,0.446,-0.0089,0.0758,0.1028,0.235,FALSE
+building,PO box / general delivery / other,Moderate MIZ,b2,5000,0.375,0.383,0.0079,0.0478,0.0712,0.783,FALSE
+building,PO box / general delivery / other,Weak MIZ,b2,5302,0.362,0.369,0.0069,0.0717,0.0967,0.631,FALSE
+building,PO box / general delivery / other,No MIZ,b2,80,0.329,0.405,0.0755,0.1023,0.1252,0.022,TRUE
+building,PO box / general delivery / other,Territories,b2,1,0.232,0.136,-0.0953,0.0953,0.0953,,TRUE
+building,Unknown / retired,CMA,b2,2771,0.313,0.358,0.0447,0.0857,0.1178,0.197,FALSE
+building,Unknown / retired,CA,b2,244,0.351,0.364,0.0126,0.0616,0.0851,0.531,FALSE
+building,Unknown / retired,Strong MIZ,b2,296,0.423,0.419,-0.0039,0.0806,0.1046,0.126,FALSE
+building,Unknown / retired,Moderate MIZ,b2,288,0.459,0.428,-0.0314,0.0761,0.1017,0.473,FALSE
+building,Unknown / retired,Weak MIZ,b2,107,0.351,0.384,0.0324,0.0792,0.1026,0.293,FALSE
+building,Unknown / retired,No MIZ,b2,2,0.392,0.576,0.1837,0.1837,0.2553,,TRUE
+building,Unknown / retired,Territories,b2,160,0.317,0.255,-0.0617,0.0717,0.0838,-0.057,FALSE
+oda,Urban letter carrier: house,CMA,pix,117163,0.299,0.299,0,0.0315,0.0589,0.79,FALSE
+oda,Urban letter carrier: house,CA,pix,4281,0.349,0.346,-0.0029,0.0255,0.0474,0.876,FALSE
+oda,Urban letter carrier: house,Strong MIZ,pix,1721,0.391,0.401,0.0101,0.0385,0.0624,0.751,FALSE
+oda,Urban letter carrier: house,Moderate MIZ,pix,1749,0.444,0.444,-1e-04,0.058,0.0902,0.514,FALSE
+oda,Urban letter carrier: house,Weak MIZ,pix,1359,0.425,0.425,-6e-04,0.0578,0.0886,0.666,FALSE
+oda,Urban letter carrier: house,No MIZ,pix,13,0.404,0.39,-0.014,0.0227,0.035,0.95,TRUE
+oda,Urban letter carrier: apartment,CMA,pix,13020,0.251,0.255,0.0033,0.0294,0.0554,0.812,FALSE
+oda,Urban letter carrier: apartment,CA,pix,402,0.226,0.25,0.0239,0.034,0.0445,0.456,FALSE
+oda,Urban letter carrier: apartment,Moderate MIZ,pix,10,0.471,0.471,0,0,0,,TRUE
+oda,Urban letter carrier: apartment,Weak MIZ,pix,1,0.551,0.142,-0.4096,0.4096,0.4096,,TRUE
+oda,Business / large volume receiver,CMA,pix,186,0.394,0.464,0.0702,0.073,0.0892,0.975,FALSE
+oda,Business / large volume receiver,CA,pix,40,0.283,0.283,0,0,0,,TRUE
+oda,Business / large volume receiver,Weak MIZ,pix,10,0.56,0.56,0,0,0,,TRUE
+oda,Rural postal code,CMA,pix,30532,0.427,0.474,0.0475,0.1006,0.1286,0.319,FALSE
+oda,Rural postal code,CA,pix,9103,0.417,0.482,0.0653,0.1072,0.1379,0.194,FALSE
+oda,Rural postal code,Strong MIZ,pix,15357,0.433,0.499,0.0664,0.1022,0.1279,0.207,FALSE
+oda,Rural postal code,Moderate MIZ,pix,31979,0.426,0.524,0.0972,0.1334,0.1685,0.111,FALSE
+oda,Rural postal code,Weak MIZ,pix,7038,0.424,0.485,0.061,0.1101,0.1386,0.327,FALSE
+oda,Rural postal code,No MIZ,pix,74,0.37,0.543,0.173,0.1754,0.2052,0.678,TRUE
+oda,Rural route / suburban service,CMA,pix,3097,0.486,0.518,0.0319,0.0971,0.1296,0.195,FALSE
+oda,Rural route / suburban service,CA,pix,1440,0.523,0.545,0.0224,0.0952,0.1231,0.106,FALSE
+oda,Rural route / suburban service,Strong MIZ,pix,1162,0.478,0.586,0.108,0.132,0.1641,0.361,FALSE
+oda,Rural route / suburban service,Moderate MIZ,pix,6061,0.451,0.561,0.1097,0.1288,0.169,-0.021,FALSE
+oda,Rural route / suburban service,Weak MIZ,pix,3160,0.46,0.527,0.0665,0.1182,0.1559,0.187,FALSE
+oda,PO box / general delivery / other,CMA,pix,468,0.397,0.361,-0.0358,0.0832,0.1156,0.347,FALSE
+oda,PO box / general delivery / other,CA,pix,8,0.426,0.403,-0.0228,0.124,0.1323,0.461,TRUE
+oda,PO box / general delivery / other,Strong MIZ,pix,47,0.477,0.401,-0.0763,0.126,0.1359,0.127,TRUE
+oda,PO box / general delivery / other,Moderate MIZ,pix,107,0.457,0.505,0.0473,0.1129,0.1467,0.336,FALSE
+oda,PO box / general delivery / other,Weak MIZ,pix,33,0.453,0.552,0.0994,0.1595,0.1832,-0.164,TRUE
+oda,Unknown / retired,CMA,pix,396,0.209,0.223,0.0139,0.0354,0.0494,0.575,FALSE
+oda,Unknown / retired,CA,pix,2,0.471,0.497,0.0252,0.0302,0.0393,,TRUE
+oda,Unknown / retired,Moderate MIZ,pix,10,0.457,0.462,0.0055,0.0649,0.0727,0.597,TRUE
+oda,Urban letter carrier: house,CMA,b1,117166,0.325,0.325,-3e-04,0.0165,0.0311,0.929,FALSE
+oda,Urban letter carrier: house,CA,b1,4281,0.363,0.36,-0.0031,0.0139,0.0278,0.954,FALSE
+oda,Urban letter carrier: house,Strong MIZ,b1,1722,0.419,0.426,0.0074,0.0266,0.0448,0.8,FALSE
+oda,Urban letter carrier: house,Moderate MIZ,b1,1763,0.449,0.444,-0.0046,0.046,0.0725,0.631,FALSE
+oda,Urban letter carrier: house,Weak MIZ,b1,1363,0.42,0.421,0.0014,0.0473,0.0733,0.744,FALSE
+oda,Urban letter carrier: house,No MIZ,b1,13,0.389,0.38,-0.0083,0.0205,0.0339,0.943,TRUE
+oda,Urban letter carrier: apartment,CMA,b1,13020,0.28,0.278,-0.0027,0.0146,0.0269,0.945,FALSE
+oda,Urban letter carrier: apartment,CA,b1,402,0.278,0.263,-0.0149,0.0274,0.033,0.728,FALSE
+oda,Urban letter carrier: apartment,Moderate MIZ,b1,10,0.484,0.484,0,0,0,,TRUE
+oda,Urban letter carrier: apartment,Weak MIZ,b1,1,0.559,0.123,-0.4363,0.4363,0.4363,,TRUE
+oda,Business / large volume receiver,CMA,b1,186,0.425,0.432,0.0071,0.0114,0.018,0.984,FALSE
+oda,Business / large volume receiver,CA,b1,40,0.3,0.3,0,0,0,,TRUE
+oda,Business / large volume receiver,Weak MIZ,b1,10,0.44,0.44,0,0,0,,TRUE
+oda,Rural postal code,CMA,b1,30532,0.438,0.476,0.0383,0.0817,0.1061,0.416,FALSE
+oda,Rural postal code,CA,b1,9104,0.418,0.472,0.0545,0.0962,0.1242,0.26,FALSE
+oda,Rural postal code,Strong MIZ,b1,15357,0.443,0.5,0.0572,0.084,0.1069,0.318,FALSE
+oda,Rural postal code,Moderate MIZ,b1,32004,0.424,0.517,0.093,0.1196,0.1524,0.152,FALSE
+oda,Rural postal code,Weak MIZ,b1,7038,0.439,0.492,0.0534,0.0894,0.1156,0.367,FALSE
+oda,Rural postal code,No MIZ,b1,74,0.369,0.525,0.1563,0.1612,0.184,0.728,TRUE
+oda,Rural route / suburban service,CMA,b1,3097,0.479,0.517,0.0385,0.0856,0.1156,0.29,FALSE
+oda,Rural route / suburban service,CA,b1,1440,0.526,0.543,0.017,0.0827,0.1102,0.214,FALSE
+oda,Rural route / suburban service,Strong MIZ,b1,1162,0.471,0.58,0.1092,0.1329,0.1614,0.446,FALSE
+oda,Rural route / suburban service,Moderate MIZ,b1,6061,0.447,0.546,0.0991,0.1107,0.1414,0.208,FALSE
+oda,Rural route / suburban service,Weak MIZ,b1,3160,0.452,0.513,0.0609,0.107,0.1396,0.332,FALSE
+oda,PO box / general delivery / other,CMA,b1,468,0.405,0.363,-0.0425,0.0721,0.1035,0.44,FALSE
+oda,PO box / general delivery / other,CA,b1,8,0.429,0.418,-0.0113,0.0929,0.0994,0.441,TRUE
+oda,PO box / general delivery / other,Strong MIZ,b1,47,0.49,0.398,-0.0918,0.1239,0.1395,0.048,TRUE
+oda,PO box / general delivery / other,Moderate MIZ,b1,107,0.446,0.503,0.0563,0.1035,0.1334,0.301,FALSE
+oda,PO box / general delivery / other,Weak MIZ,b1,33,0.43,0.526,0.0962,0.1605,0.1926,0.019,TRUE
+oda,Unknown / retired,CMA,b1,396,0.24,0.265,0.0242,0.0265,0.0369,0.682,FALSE
+oda,Unknown / retired,CA,b1,2,0.507,0.466,-0.041,0.041,0.0564,,TRUE
+oda,Unknown / retired,Moderate MIZ,b1,10,0.48,0.475,-0.0048,0.044,0.0542,0.481,TRUE
+oda,Urban letter carrier: house,CMA,b2,117167,0.344,0.344,-4e-04,0.011,0.0215,0.964,FALSE
+oda,Urban letter carrier: house,CA,b2,4281,0.372,0.369,-0.0028,0.0101,0.0213,0.974,FALSE
+oda,Urban letter carrier: house,Strong MIZ,b2,1722,0.437,0.442,0.0044,0.0175,0.032,0.882,FALSE
+oda,Urban letter carrier: house,Moderate MIZ,b2,1764,0.451,0.445,-0.0053,0.0372,0.0586,0.747,FALSE
+oda,Urban letter carrier: house,Weak MIZ,b2,1363,0.416,0.419,0.0029,0.037,0.0605,0.828,FALSE
+oda,Urban letter carrier: house,No MIZ,b2,13,0.382,0.372,-0.0096,0.0236,0.0388,0.926,TRUE
+oda,Urban letter carrier: apartment,CMA,b2,13020,0.297,0.294,-0.0025,0.0072,0.0133,0.986,FALSE
+oda,Urban letter carrier: apartment,CA,b2,402,0.299,0.284,-0.0153,0.0215,0.0255,0.905,FALSE
+oda,Urban letter carrier: apartment,Moderate MIZ,b2,10,0.475,0.475,0,0,0,,TRUE
+oda,Urban letter carrier: apartment,Weak MIZ,b2,1,0.549,0.118,-0.4303,0.4303,0.4303,,TRUE
+oda,Business / large volume receiver,CMA,b2,186,0.405,0.4,-0.0054,0.0078,0.0125,0.987,FALSE
+oda,Business / large volume receiver,CA,b2,40,0.321,0.321,0,0,0,,TRUE
+oda,Business / large volume receiver,Weak MIZ,b2,10,0.451,0.451,0,0,0,,TRUE
+oda,Rural postal code,CMA,b2,30532,0.449,0.479,0.03,0.0696,0.0932,0.475,FALSE
+oda,Rural postal code,CA,b2,9104,0.42,0.467,0.0469,0.09,0.1185,0.335,FALSE
+oda,Rural postal code,Strong MIZ,b2,15357,0.454,0.503,0.0486,0.0733,0.0974,0.397,FALSE
+oda,Rural postal code,Moderate MIZ,b2,32007,0.427,0.509,0.0821,0.1093,0.1425,0.214,FALSE
+oda,Rural postal code,Weak MIZ,b2,7039,0.455,0.498,0.0434,0.0736,0.0996,0.399,FALSE
+oda,Rural postal code,No MIZ,b2,74,0.363,0.513,0.1499,0.1569,0.183,0.653,TRUE
+oda,Rural route / suburban service,CMA,b2,3097,0.473,0.518,0.0452,0.0803,0.1115,0.357,FALSE
+oda,Rural route / suburban service,CA,b2,1440,0.524,0.535,0.0109,0.0723,0.0968,0.372,FALSE
+oda,Rural route / suburban service,Strong MIZ,b2,1162,0.468,0.563,0.0952,0.1176,0.1443,0.557,FALSE
+oda,Rural route / suburban service,Moderate MIZ,b2,6061,0.451,0.532,0.0814,0.0965,0.1257,0.295,FALSE
+oda,Rural route / suburban service,Weak MIZ,b2,3160,0.449,0.491,0.0425,0.0914,0.1221,0.451,FALSE
+oda,PO box / general delivery / other,CMA,b2,468,0.423,0.377,-0.0457,0.0675,0.1006,0.486,FALSE
+oda,PO box / general delivery / other,CA,b2,8,0.436,0.419,-0.0172,0.0712,0.082,0.634,TRUE
+oda,PO box / general delivery / other,Strong MIZ,b2,47,0.506,0.428,-0.0775,0.1028,0.1156,0.107,TRUE
+oda,PO box / general delivery / other,Moderate MIZ,b2,107,0.435,0.5,0.0653,0.0965,0.1275,0.307,FALSE
+oda,PO box / general delivery / other,Weak MIZ,b2,33,0.413,0.512,0.0985,0.1685,0.2102,0.059,TRUE
+oda,Unknown / retired,CMA,b2,396,0.269,0.286,0.0165,0.019,0.0265,0.746,FALSE
+oda,Unknown / retired,CA,b2,2,0.498,0.448,-0.0499,0.0499,0.054,,TRUE
+oda,Unknown / retired,Moderate MIZ,b2,10,0.481,0.462,-0.019,0.0383,0.0493,0.713,TRUE
+blockface,Rural postal code,CMA,pix,67474,0.419,0.47,0.0515,0.1001,0.1295,0.379,FALSE
+blockface,Rural postal code,CA,pix,34762,0.43,0.484,0.054,0.0976,0.1266,0.446,FALSE
+blockface,Rural postal code,Strong MIZ,pix,105570,0.451,0.503,0.0514,0.1018,0.1316,0.276,FALSE
+blockface,Rural postal code,Moderate MIZ,pix,133424,0.432,0.478,0.0458,0.1009,0.1312,0.381,FALSE
+blockface,Rural postal code,Weak MIZ,pix,73518,0.369,0.402,0.0325,0.0899,0.1179,0.373,FALSE
+blockface,Rural postal code,No MIZ,pix,13917,0.373,0.404,0.0311,0.0777,0.1037,0.528,FALSE
+blockface,Rural postal code,Territories,pix,324,0.305,0.3,-0.0054,0.0359,0.0492,0.508,FALSE
+blockface,Rural route / suburban service,CMA,pix,12815,0.498,0.524,0.0261,0.0821,0.1097,0.277,FALSE
+blockface,Rural route / suburban service,CA,pix,9602,0.504,0.531,0.027,0.0878,0.114,0.285,FALSE
+blockface,Rural route / suburban service,Strong MIZ,pix,13500,0.508,0.532,0.0244,0.0862,0.1152,0.282,FALSE
+blockface,Rural route / suburban service,Moderate MIZ,pix,8506,0.514,0.556,0.0423,0.079,0.107,0.084,FALSE
+blockface,Rural route / suburban service,Weak MIZ,pix,3486,0.472,0.471,-5e-04,0.1123,0.1543,0.237,FALSE
+blockface,Rural route / suburban service,No MIZ,pix,1,0.362,0.419,0.0568,0.0568,0.0568,,TRUE
+blockface,PO box / general delivery / other,CMA,pix,1375,0.375,0.393,0.0175,0.0766,0.1071,0.288,FALSE
+blockface,PO box / general delivery / other,CA,pix,540,0.334,0.362,0.0279,0.1073,0.1298,0.625,FALSE
+blockface,PO box / general delivery / other,Strong MIZ,pix,2295,0.442,0.468,0.0261,0.0833,0.1154,0.114,FALSE
+blockface,PO box / general delivery / other,Moderate MIZ,pix,784,0.42,0.418,-0.0027,0.0878,0.1237,0.566,FALSE
+blockface,PO box / general delivery / other,Weak MIZ,pix,1932,0.366,0.374,0.0082,0.0841,0.1125,0.196,FALSE
+blockface,PO box / general delivery / other,No MIZ,pix,36,0.378,0.41,0.0322,0.0689,0.0913,0.684,TRUE
+blockface,Unknown / retired,CMA,pix,1076,0.235,0.264,0.0289,0.075,0.0983,0.217,FALSE
+blockface,Unknown / retired,CA,pix,4,0.474,0.495,0.0213,0.0982,0.1056,0.996,TRUE
+blockface,Unknown / retired,Strong MIZ,pix,20,0.402,0.446,0.0435,0.1415,0.1611,-0.027,TRUE
+blockface,Unknown / retired,Moderate MIZ,pix,18,0.452,0.392,-0.0595,0.1524,0.1919,-0.044,TRUE
+blockface,Unknown / retired,Weak MIZ,pix,1,0.42,0.457,0.0369,0.0369,0.0369,,TRUE
+blockface,Rural postal code,CMA,b1,67486,0.434,0.473,0.0389,0.0806,0.106,0.45,FALSE
+blockface,Rural postal code,CA,b1,34783,0.433,0.48,0.047,0.0873,0.1146,0.496,FALSE
+blockface,Rural postal code,Strong MIZ,b1,105592,0.456,0.5,0.0442,0.0884,0.1161,0.332,FALSE
+blockface,Rural postal code,Moderate MIZ,b1,133566,0.431,0.478,0.0466,0.0893,0.1172,0.413,FALSE
+blockface,Rural postal code,Weak MIZ,b1,73777,0.377,0.403,0.0251,0.0735,0.0992,0.448,FALSE
+blockface,Rural postal code,No MIZ,b1,14037,0.38,0.406,0.0263,0.0627,0.0862,0.641,FALSE
+blockface,Rural postal code,Territories,b1,324,0.302,0.305,0.0036,0.0262,0.0377,0.647,FALSE
+blockface,Rural route / suburban service,CMA,b1,12815,0.503,0.522,0.0194,0.0682,0.0944,0.369,FALSE
+blockface,Rural route / suburban service,CA,b1,9614,0.507,0.525,0.0176,0.0739,0.1007,0.367,FALSE
+blockface,Rural route / suburban service,Strong MIZ,b1,13519,0.506,0.529,0.0229,0.0781,0.1081,0.381,FALSE
+blockface,Rural route / suburban service,Moderate MIZ,b1,8506,0.5,0.543,0.0435,0.0766,0.1023,0.154,FALSE
+blockface,Rural route / suburban service,Weak MIZ,b1,3486,0.456,0.465,0.0093,0.1027,0.1354,0.355,FALSE
+blockface,Rural route / suburban service,No MIZ,b1,1,0.353,0.403,0.0502,0.0502,0.0502,,TRUE
+blockface,PO box / general delivery / other,CMA,b1,1375,0.394,0.388,-0.0053,0.0507,0.0819,0.521,FALSE
+blockface,PO box / general delivery / other,CA,b1,540,0.34,0.358,0.0175,0.0958,0.1194,0.649,FALSE
+blockface,PO box / general delivery / other,Strong MIZ,b1,2295,0.451,0.463,0.0123,0.0671,0.0912,0.142,FALSE
+blockface,PO box / general delivery / other,Moderate MIZ,b1,784,0.417,0.422,0.0056,0.0683,0.0947,0.639,FALSE
+blockface,PO box / general delivery / other,Weak MIZ,b1,1932,0.372,0.385,0.0131,0.0692,0.0975,0.214,FALSE
+blockface,PO box / general delivery / other,No MIZ,b1,36,0.334,0.398,0.0645,0.0814,0.0935,0.799,TRUE
+blockface,Unknown / retired,CMA,b1,1076,0.261,0.267,0.0063,0.0531,0.0749,0.312,FALSE
+blockface,Unknown / retired,CA,b1,4,0.445,0.432,-0.0128,0.109,0.1342,0.662,TRUE
+blockface,Unknown / retired,Strong MIZ,b1,20,0.407,0.432,0.0258,0.1053,0.1341,0.181,TRUE
+blockface,Unknown / retired,Moderate MIZ,b1,18,0.452,0.391,-0.0603,0.1456,0.1838,-0.163,TRUE
+blockface,Unknown / retired,Weak MIZ,b1,1,0.4,0.464,0.0645,0.0645,0.0645,,TRUE
+blockface,Rural postal code,CMA,b2,67486,0.446,0.475,0.0289,0.067,0.0909,0.51,FALSE
+blockface,Rural postal code,CA,b2,34795,0.438,0.479,0.0408,0.0787,0.1064,0.535,FALSE
+blockface,Rural postal code,Strong MIZ,b2,105639,0.462,0.5,0.0385,0.0804,0.1093,0.375,FALSE
+blockface,Rural postal code,Moderate MIZ,b2,133647,0.435,0.477,0.0418,0.0803,0.1074,0.442,FALSE
+blockface,Rural postal code,Weak MIZ,b2,73915,0.385,0.405,0.0207,0.0639,0.0891,0.51,FALSE
+blockface,Rural postal code,No MIZ,b2,14116,0.383,0.405,0.022,0.053,0.0753,0.727,FALSE
+blockface,Rural postal code,Territories,b2,324,0.294,0.296,0.0019,0.025,0.0367,0.539,FALSE
+blockface,Rural route / suburban service,CMA,b2,12815,0.505,0.52,0.0149,0.0606,0.0878,0.422,FALSE
+blockface,Rural route / suburban service,CA,b2,9615,0.506,0.52,0.0141,0.0687,0.0958,0.404,FALSE
+blockface,Rural route / suburban service,Strong MIZ,b2,13519,0.504,0.525,0.0202,0.0736,0.1065,0.433,FALSE
+blockface,Rural route / suburban service,Moderate MIZ,b2,8506,0.492,0.53,0.038,0.0747,0.0997,0.239,FALSE
+blockface,Rural route / suburban service,Weak MIZ,b2,3486,0.446,0.455,0.0097,0.0912,0.1212,0.455,FALSE
+blockface,Rural route / suburban service,No MIZ,b2,1,0.34,0.407,0.0675,0.0675,0.0675,,TRUE
+blockface,PO box / general delivery / other,CMA,b2,1375,0.409,0.399,-0.0102,0.0429,0.0736,0.607,FALSE
+blockface,PO box / general delivery / other,CA,b2,540,0.346,0.361,0.0159,0.0945,0.1192,0.582,FALSE
+blockface,PO box / general delivery / other,Strong MIZ,b2,2295,0.461,0.465,0.0039,0.0667,0.09,0.126,FALSE
+blockface,PO box / general delivery / other,Moderate MIZ,b2,784,0.413,0.422,0.0094,0.058,0.0808,0.679,FALSE
+blockface,PO box / general delivery / other,Weak MIZ,b2,1932,0.38,0.394,0.0138,0.0596,0.0891,0.221,FALSE
+blockface,PO box / general delivery / other,No MIZ,b2,36,0.298,0.386,0.0873,0.0929,0.1089,0.778,TRUE
+blockface,Unknown / retired,CMA,b2,1076,0.292,0.274,-0.0183,0.0587,0.0741,0.31,FALSE
+blockface,Unknown / retired,CA,b2,4,0.448,0.396,-0.0517,0.099,0.1354,0.325,TRUE
+blockface,Unknown / retired,Strong MIZ,b2,20,0.415,0.428,0.0132,0.1039,0.1267,0.071,TRUE
+blockface,Unknown / retired,Moderate MIZ,b2,18,0.45,0.392,-0.0586,0.138,0.1755,-0.207,TRUE
+blockface,Unknown / retired,Weak MIZ,b2,1,0.409,0.463,0.0542,0.0542,0.0542,,TRUE
+urban_blockface_excluded,Urban letter carrier: house,CMA,pix,137397,0.319,0.321,0.0018,0.0219,0.0494,0.892,FALSE
+urban_blockface_excluded,Urban letter carrier: house,CA,pix,40171,0.358,0.358,3e-04,0.0246,0.0517,0.853,FALSE
+urban_blockface_excluded,Urban letter carrier: house,Strong MIZ,pix,16863,0.442,0.448,0.0066,0.0435,0.0823,0.721,FALSE
+urban_blockface_excluded,Urban letter carrier: house,Moderate MIZ,pix,10706,0.418,0.422,0.0044,0.0333,0.0674,0.8,FALSE
+urban_blockface_excluded,Urban letter carrier: house,Weak MIZ,pix,7353,0.381,0.378,-0.003,0.0264,0.0542,0.856,FALSE
+urban_blockface_excluded,Urban letter carrier: house,No MIZ,pix,291,0.35,0.364,0.0143,0.0695,0.1014,0.672,FALSE
+urban_blockface_excluded,Urban letter carrier: apartment,CMA,pix,15696,0.245,0.247,0.0025,0.0084,0.0363,0.92,FALSE
+urban_blockface_excluded,Urban letter carrier: apartment,CA,pix,2606,0.301,0.304,0.0027,0.005,0.0207,0.971,FALSE
+urban_blockface_excluded,Urban letter carrier: apartment,Strong MIZ,pix,85,0.226,0.192,-0.0338,0.0338,0.0637,-0.698,TRUE
+urban_blockface_excluded,Urban letter carrier: apartment,Moderate MIZ,pix,405,0.346,0.36,0.0136,0.0156,0.034,0.951,FALSE
+urban_blockface_excluded,Urban letter carrier: apartment,Weak MIZ,pix,244,0.339,0.339,5e-04,5e-04,0.0085,0.988,FALSE
+urban_blockface_excluded,Business / large volume receiver,CMA,pix,71,0.265,0.238,-0.0271,0.0323,0.0491,0.601,TRUE
+urban_blockface_excluded,Business / large volume receiver,CA,pix,50,0.244,0.244,0,0,0,1,TRUE
+urban_blockface_excluded,Business / large volume receiver,Weak MIZ,pix,1,0.223,0.346,0.1236,0.1236,0.1236,,TRUE
+urban_blockface_excluded,Urban letter carrier: house,CMA,b1,137441,0.34,0.341,7e-04,0.0134,0.0324,0.945,FALSE
+urban_blockface_excluded,Urban letter carrier: house,CA,b1,40191,0.376,0.376,-2e-04,0.0159,0.035,0.922,FALSE
+urban_blockface_excluded,Urban letter carrier: house,Strong MIZ,b1,16870,0.449,0.456,0.0063,0.0347,0.0691,0.766,FALSE
+urban_blockface_excluded,Urban letter carrier: house,Moderate MIZ,b1,10724,0.424,0.428,0.0038,0.0228,0.0489,0.859,FALSE
+urban_blockface_excluded,Urban letter carrier: house,Weak MIZ,b1,7367,0.392,0.39,-0.0014,0.0201,0.0423,0.893,FALSE
+urban_blockface_excluded,Urban letter carrier: house,No MIZ,b1,291,0.33,0.352,0.0214,0.0587,0.0835,0.73,FALSE
+urban_blockface_excluded,Urban letter carrier: apartment,CMA,b1,15818,0.265,0.267,0.0021,0.0063,0.0267,0.951,FALSE
+urban_blockface_excluded,Urban letter carrier: apartment,CA,b1,2606,0.344,0.344,-1e-04,0.005,0.0193,0.971,FALSE
+urban_blockface_excluded,Urban letter carrier: apartment,Strong MIZ,b1,85,0.254,0.231,-0.023,0.023,0.0517,-0.125,TRUE
+urban_blockface_excluded,Urban letter carrier: apartment,Moderate MIZ,b1,405,0.367,0.371,0.0035,0.0048,0.014,0.983,FALSE
+urban_blockface_excluded,Urban letter carrier: apartment,Weak MIZ,b1,244,0.346,0.347,3e-04,3e-04,0.0043,0.995,FALSE
+urban_blockface_excluded,Business / large volume receiver,CMA,b1,71,0.26,0.249,-0.0112,0.0171,0.0265,0.868,TRUE
+urban_blockface_excluded,Business / large volume receiver,CA,b1,50,0.271,0.271,0,0,0,1,TRUE
+urban_blockface_excluded,Business / large volume receiver,Weak MIZ,b1,1,0.263,0.421,0.1579,0.1579,0.1579,,TRUE
+urban_blockface_excluded,Urban letter carrier: house,CMA,b2,137441,0.356,0.357,4e-04,0.0096,0.0252,0.964,FALSE
+urban_blockface_excluded,Urban letter carrier: house,CA,b2,40194,0.387,0.386,-2e-04,0.0122,0.029,0.946,FALSE
+urban_blockface_excluded,Urban letter carrier: house,Strong MIZ,b2,16870,0.453,0.459,0.0053,0.0298,0.0616,0.798,FALSE
+urban_blockface_excluded,Urban letter carrier: house,Moderate MIZ,b2,10725,0.428,0.431,0.0027,0.0191,0.0427,0.872,FALSE
+urban_blockface_excluded,Urban letter carrier: house,Weak MIZ,b2,7370,0.399,0.398,-0.0011,0.0161,0.0376,0.908,FALSE
+urban_blockface_excluded,Urban letter carrier: house,No MIZ,b2,291,0.316,0.34,0.0239,0.0537,0.0794,0.727,FALSE
+urban_blockface_excluded,Urban letter carrier: apartment,CMA,b2,15818,0.28,0.281,0.0011,0.0042,0.0172,0.977,FALSE
+urban_blockface_excluded,Urban letter carrier: apartment,CA,b2,2606,0.363,0.362,-9e-04,0.0027,0.0146,0.985,FALSE
+urban_blockface_excluded,Urban letter carrier: apartment,Strong MIZ,b2,85,0.26,0.255,-0.0058,0.0058,0.0391,0.361,TRUE
+urban_blockface_excluded,Urban letter carrier: apartment,Moderate MIZ,b2,405,0.403,0.404,0.0012,0.0024,0.0121,0.97,FALSE
+urban_blockface_excluded,Urban letter carrier: apartment,Weak MIZ,b2,244,0.375,0.375,1e-04,1e-04,0.0012,1,FALSE
+urban_blockface_excluded,Business / large volume receiver,CMA,b2,71,0.284,0.264,-0.0199,0.0244,0.0343,0.851,TRUE
+urban_blockface_excluded,Business / large volume receiver,CA,b2,50,0.315,0.315,0,0,0,1,TRUE
+urban_blockface_excluded,Business / large volume receiver,Weak MIZ,b2,1,0.298,0.438,0.1407,0.1407,0.1407,,TRUE

@@ -1,0 +1,42 @@
+dmt7,sac,N,pct_misclassified
+A house,CMA,6129353,4.6
+B apartment,CMA,1785808,2.8
+H/T rural route,CMA,47964,39.6
+W rural,CMA,341473,50.2
+J/K/M PO box/GD,CMA,7823,45.7
+E/G business,CMA,21113,2.8
+W rural,Moderate MIZ,611229,42.7
+W rural,Weak MIZ,302588,45.3
+H/T rural route,Moderate MIZ,25524,45
+H/T rural route,Weak MIZ,15075,43.8
+A house,Weak MIZ,147691,7.9
+A house,Moderate MIZ,199940,6.1
+J/K/M PO box/GD,Moderate MIZ,4602,45.3
+B apartment,Moderate MIZ,7374,4.9
+W rural,Strong MIZ,533772,48.2
+W rural,No MIZ,39192,29.2
+Z/unknown,CMA,3393,68.2
+A house,CA,1028339,5.6
+H/T rural route,CA,33873,48
+J/K/M PO box/GD,CA,5195,53.3
+W rural,CA,177737,50.7
+B apartment,CA,69909,3.6
+H/T rural route,Strong MIZ,23173,43.7
+J/K/M PO box/GD,Strong MIZ,3354,54.1
+A house,Strong MIZ,139491,9.3
+J/K/M PO box/GD,Weak MIZ,6384,57.9
+A house,No MIZ,1783,2
+B apartment,Weak MIZ,4729,8.9
+E/G business,Weak MIZ,350,1.7
+Z/unknown,CA,190,33.2
+Z/unknown,Weak MIZ,118,67.8
+Z/unknown,Moderate MIZ,219,53
+E/G business,Moderate MIZ,342,0
+B apartment,Strong MIZ,1891,7.5
+E/G business,Strong MIZ,34,0
+Z/unknown,Strong MIZ,59,66.1
+E/G business,CA,818,12.1
+H/T rural route,No MIZ,54,50
+J/K/M PO box/GD,No MIZ,109,62.4
+W rural,Territories,9652,33.9
+A house,Territories,3,100

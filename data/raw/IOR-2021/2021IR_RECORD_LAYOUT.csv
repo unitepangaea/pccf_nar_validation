@@ -1,0 +1,8 @@
+Field name,Description,Field type
+Pruid,Uniquely identifies a province or territory,Geographic code
+CSDuid,Uniquely identifies a census subdivision,Geographic code
+CSDname,Census subdivision name,Geographic name
+CSDtype,"Census subdivision type, census subdivisions are classified according to designations adopted by provincial, territorial or federal authorities",CSD type
+Index_of_remoteness,Index of remoteness,Index of remoteness
+CSDpop2021,2021 Census  population,"Population, 2021"
+DGUID,Dissemination geography unique identifier,Geographic code for dissemination

@@ -1,0 +1,9 @@
+model,sample,test,statistic,value,df1,df2,p,N
+m1_log10_distance,main,delivery mode x rurality,F,3166.46830069835,21,12406737,0,12406782
+m2_abs_evi_diff_b1,main,delivery mode x rurality,F,1155.89994537604,21,12395619,0,12395664
+m3_material_misclassified,main,delivery mode x rurality,LR chi-square,13284.9435774976,20,,0,11727554
+m4_social_misclassified,main,delivery mode x rurality,LR chi-square,9817.98355091061,20,,0,11727554
+m1_log10_distance,building,delivery mode x rurality,F,3299.11415435776,20,11671575,0,11671619
+m2_abs_evi_diff_b1,building,delivery mode x rurality,F,1147.02659145379,20,11661404,0,11661448
+m3_material_misclassified,building,delivery mode x rurality,LR chi-square,12390.8933652353,20,,0,11031794
+m4_social_misclassified,building,delivery mode x rurality,LR chi-square,9422.31672986694,20,,0,11031794

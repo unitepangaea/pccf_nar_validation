@@ -1,0 +1,217 @@
+sample,ref_source,delivery_mode,rurality,N
+main,blockface,Rural postal code,CMA,67486
+main,blockface,Rural postal code,CA,34795
+main,blockface,Rural postal code,Strong MIZ,105654
+main,blockface,Rural postal code,Moderate MIZ,133687
+main,blockface,Rural postal code,Weak MIZ,74333
+main,blockface,Rural postal code,No MIZ,14199
+main,blockface,Rural postal code,Territories,349
+main,blockface,Rural route / suburban service,CMA,12815
+main,blockface,Rural route / suburban service,CA,9615
+main,blockface,Rural route / suburban service,Strong MIZ,13519
+main,blockface,Rural route / suburban service,Moderate MIZ,8506
+main,blockface,Rural route / suburban service,Weak MIZ,3486
+main,blockface,Rural route / suburban service,No MIZ,1
+main,blockface,PO box / general delivery / other,CMA,1375
+main,blockface,PO box / general delivery / other,CA,540
+main,blockface,PO box / general delivery / other,Strong MIZ,2295
+main,blockface,PO box / general delivery / other,Moderate MIZ,784
+main,blockface,PO box / general delivery / other,Weak MIZ,1932
+main,blockface,PO box / general delivery / other,No MIZ,36
+main,blockface,Unknown / retired,CMA,1076
+main,blockface,Unknown / retired,CA,4
+main,blockface,Unknown / retired,Strong MIZ,20
+main,blockface,Unknown / retired,Moderate MIZ,18
+main,blockface,Unknown / retired,Weak MIZ,1
+main,building,Urban letter carrier: house,CMA,6252528
+main,building,Urban letter carrier: house,CA,1096849
+main,building,Urban letter carrier: house,Strong MIZ,144287
+main,building,Urban letter carrier: house,Moderate MIZ,213208
+main,building,Urban letter carrier: house,Weak MIZ,154149
+main,building,Urban letter carrier: house,No MIZ,2166
+main,building,Urban letter carrier: house,Territories,3
+main,building,Urban letter carrier: apartment,CMA,1933772
+main,building,Urban letter carrier: apartment,CA,86653
+main,building,Urban letter carrier: apartment,Strong MIZ,2785
+main,building,Urban letter carrier: apartment,Moderate MIZ,9537
+main,building,Urban letter carrier: apartment,Weak MIZ,6054
+main,building,Urban letter carrier: apartment,No MIZ,1
+main,building,Business / large volume receiver,CMA,27055
+main,building,Business / large volume receiver,CA,1922
+main,building,Business / large volume receiver,Strong MIZ,35
+main,building,Business / large volume receiver,Moderate MIZ,636
+main,building,Business / large volume receiver,Weak MIZ,345
+main,building,Rural postal code,CMA,257987
+main,building,Rural postal code,CA,136626
+main,building,Rural postal code,Strong MIZ,440068
+main,building,Rural postal code,Moderate MIZ,505609
+main,building,Rural postal code,Weak MIZ,245244
+main,building,Rural postal code,No MIZ,27456
+main,building,Rural postal code,Territories,9602
+main,building,Rural route / suburban service,CMA,33675
+main,building,Rural route / suburban service,CA,25632
+main,building,Rural route / suburban service,Strong MIZ,10761
+main,building,Rural route / suburban service,Moderate MIZ,13980
+main,building,Rural route / suburban service,Weak MIZ,8481
+main,building,Rural route / suburban service,No MIZ,82
+main,building,PO box / general delivery / other,CMA,7211
+main,building,PO box / general delivery / other,CA,5228
+main,building,PO box / general delivery / other,Strong MIZ,1810
+main,building,PO box / general delivery / other,Moderate MIZ,5000
+main,building,PO box / general delivery / other,Weak MIZ,5303
+main,building,PO box / general delivery / other,No MIZ,81
+main,building,PO box / general delivery / other,Territories,1
+main,building,Unknown / retired,CMA,2771
+main,building,Unknown / retired,CA,244
+main,building,Unknown / retired,Strong MIZ,296
+main,building,Unknown / retired,Moderate MIZ,288
+main,building,Unknown / retired,Weak MIZ,107
+main,building,Unknown / retired,No MIZ,2
+main,building,Unknown / retired,Territories,160
+main,oda,Urban letter carrier: house,CMA,117167
+main,oda,Urban letter carrier: house,CA,4281
+main,oda,Urban letter carrier: house,Strong MIZ,1722
+main,oda,Urban letter carrier: house,Moderate MIZ,1765
+main,oda,Urban letter carrier: house,Weak MIZ,1363
+main,oda,Urban letter carrier: house,No MIZ,13
+main,oda,Urban letter carrier: apartment,CMA,13020
+main,oda,Urban letter carrier: apartment,CA,402
+main,oda,Urban letter carrier: apartment,Moderate MIZ,10
+main,oda,Urban letter carrier: apartment,Weak MIZ,1
+main,oda,Business / large volume receiver,CMA,186
+main,oda,Business / large volume receiver,CA,40
+main,oda,Business / large volume receiver,Weak MIZ,10
+main,oda,Rural postal code,CMA,30532
+main,oda,Rural postal code,CA,9104
+main,oda,Rural postal code,Strong MIZ,15357
+main,oda,Rural postal code,Moderate MIZ,32007
+main,oda,Rural postal code,Weak MIZ,7039
+main,oda,Rural postal code,No MIZ,74
+main,oda,Rural route / suburban service,CMA,3097
+main,oda,Rural route / suburban service,CA,1440
+main,oda,Rural route / suburban service,Strong MIZ,1162
+main,oda,Rural route / suburban service,Moderate MIZ,6061
+main,oda,Rural route / suburban service,Weak MIZ,3160
+main,oda,PO box / general delivery / other,CMA,468
+main,oda,PO box / general delivery / other,CA,8
+main,oda,PO box / general delivery / other,Strong MIZ,47
+main,oda,PO box / general delivery / other,Moderate MIZ,107
+main,oda,PO box / general delivery / other,Weak MIZ,33
+main,oda,Unknown / retired,CMA,396
+main,oda,Unknown / retired,CA,2
+main,oda,Unknown / retired,Moderate MIZ,10
+building,building,Urban letter carrier: house,CMA,6252528
+building,building,Urban letter carrier: house,CA,1096849
+building,building,Urban letter carrier: house,Strong MIZ,144287
+building,building,Urban letter carrier: house,Moderate MIZ,213208
+building,building,Urban letter carrier: house,Weak MIZ,154149
+building,building,Urban letter carrier: house,No MIZ,2166
+building,building,Urban letter carrier: house,Territories,3
+building,building,Urban letter carrier: apartment,CMA,1933772
+building,building,Urban letter carrier: apartment,CA,86653
+building,building,Urban letter carrier: apartment,Strong MIZ,2785
+building,building,Urban letter carrier: apartment,Moderate MIZ,9537
+building,building,Urban letter carrier: apartment,Weak MIZ,6054
+building,building,Urban letter carrier: apartment,No MIZ,1
+building,building,Business / large volume receiver,CMA,27055
+building,building,Business / large volume receiver,CA,1922
+building,building,Business / large volume receiver,Strong MIZ,35
+building,building,Business / large volume receiver,Moderate MIZ,636
+building,building,Business / large volume receiver,Weak MIZ,345
+building,building,Rural postal code,CMA,257987
+building,building,Rural postal code,CA,136626
+building,building,Rural postal code,Strong MIZ,440068
+building,building,Rural postal code,Moderate MIZ,505609
+building,building,Rural postal code,Weak MIZ,245244
+building,building,Rural postal code,No MIZ,27456
+building,building,Rural postal code,Territories,9602
+building,building,Rural route / suburban service,CMA,33675
+building,building,Rural route / suburban service,CA,25632
+building,building,Rural route / suburban service,Strong MIZ,10761
+building,building,Rural route / suburban service,Moderate MIZ,13980
+building,building,Rural route / suburban service,Weak MIZ,8481
+building,building,Rural route / suburban service,No MIZ,82
+building,building,PO box / general delivery / other,CMA,7211
+building,building,PO box / general delivery / other,CA,5228
+building,building,PO box / general delivery / other,Strong MIZ,1810
+building,building,PO box / general delivery / other,Moderate MIZ,5000
+building,building,PO box / general delivery / other,Weak MIZ,5303
+building,building,PO box / general delivery / other,No MIZ,81
+building,building,PO box / general delivery / other,Territories,1
+building,building,Unknown / retired,CMA,2771
+building,building,Unknown / retired,CA,244
+building,building,Unknown / retired,Strong MIZ,296
+building,building,Unknown / retired,Moderate MIZ,288
+building,building,Unknown / retired,Weak MIZ,107
+building,building,Unknown / retired,No MIZ,2
+building,building,Unknown / retired,Territories,160
+oda,oda,Urban letter carrier: house,CMA,117167
+oda,oda,Urban letter carrier: house,CA,4281
+oda,oda,Urban letter carrier: house,Strong MIZ,1722
+oda,oda,Urban letter carrier: house,Moderate MIZ,1765
+oda,oda,Urban letter carrier: house,Weak MIZ,1363
+oda,oda,Urban letter carrier: house,No MIZ,13
+oda,oda,Urban letter carrier: apartment,CMA,13020
+oda,oda,Urban letter carrier: apartment,CA,402
+oda,oda,Urban letter carrier: apartment,Moderate MIZ,10
+oda,oda,Urban letter carrier: apartment,Weak MIZ,1
+oda,oda,Business / large volume receiver,CMA,186
+oda,oda,Business / large volume receiver,CA,40
+oda,oda,Business / large volume receiver,Weak MIZ,10
+oda,oda,Rural postal code,CMA,30532
+oda,oda,Rural postal code,CA,9104
+oda,oda,Rural postal code,Strong MIZ,15357
+oda,oda,Rural postal code,Moderate MIZ,32007
+oda,oda,Rural postal code,Weak MIZ,7039
+oda,oda,Rural postal code,No MIZ,74
+oda,oda,Rural route / suburban service,CMA,3097
+oda,oda,Rural route / suburban service,CA,1440
+oda,oda,Rural route / suburban service,Strong MIZ,1162
+oda,oda,Rural route / suburban service,Moderate MIZ,6061
+oda,oda,Rural route / suburban service,Weak MIZ,3160
+oda,oda,PO box / general delivery / other,CMA,468
+oda,oda,PO box / general delivery / other,CA,8
+oda,oda,PO box / general delivery / other,Strong MIZ,47
+oda,oda,PO box / general delivery / other,Moderate MIZ,107
+oda,oda,PO box / general delivery / other,Weak MIZ,33
+oda,oda,Unknown / retired,CMA,396
+oda,oda,Unknown / retired,CA,2
+oda,oda,Unknown / retired,Moderate MIZ,10
+blockface,blockface,Rural postal code,CMA,67486
+blockface,blockface,Rural postal code,CA,34795
+blockface,blockface,Rural postal code,Strong MIZ,105654
+blockface,blockface,Rural postal code,Moderate MIZ,133687
+blockface,blockface,Rural postal code,Weak MIZ,74333
+blockface,blockface,Rural postal code,No MIZ,14199
+blockface,blockface,Rural postal code,Territories,349
+blockface,blockface,Rural route / suburban service,CMA,12815
+blockface,blockface,Rural route / suburban service,CA,9615
+blockface,blockface,Rural route / suburban service,Strong MIZ,13519
+blockface,blockface,Rural route / suburban service,Moderate MIZ,8506
+blockface,blockface,Rural route / suburban service,Weak MIZ,3486
+blockface,blockface,Rural route / suburban service,No MIZ,1
+blockface,blockface,PO box / general delivery / other,CMA,1375
+blockface,blockface,PO box / general delivery / other,CA,540
+blockface,blockface,PO box / general delivery / other,Strong MIZ,2295
+blockface,blockface,PO box / general delivery / other,Moderate MIZ,784
+blockface,blockface,PO box / general delivery / other,Weak MIZ,1932
+blockface,blockface,PO box / general delivery / other,No MIZ,36
+blockface,blockface,Unknown / retired,CMA,1076
+blockface,blockface,Unknown / retired,CA,4
+blockface,blockface,Unknown / retired,Strong MIZ,20
+blockface,blockface,Unknown / retired,Moderate MIZ,18
+blockface,blockface,Unknown / retired,Weak MIZ,1
+urban_blockface_excluded,blockface,Urban letter carrier: house,CMA,137443
+urban_blockface_excluded,blockface,Urban letter carrier: house,CA,40194
+urban_blockface_excluded,blockface,Urban letter carrier: house,Strong MIZ,16871
+urban_blockface_excluded,blockface,Urban letter carrier: house,Moderate MIZ,10725
+urban_blockface_excluded,blockface,Urban letter carrier: house,Weak MIZ,7378
+urban_blockface_excluded,blockface,Urban letter carrier: house,No MIZ,291
+urban_blockface_excluded,blockface,Urban letter carrier: apartment,CMA,15818
+urban_blockface_excluded,blockface,Urban letter carrier: apartment,CA,2606
+urban_blockface_excluded,blockface,Urban letter carrier: apartment,Strong MIZ,85
+urban_blockface_excluded,blockface,Urban letter carrier: apartment,Moderate MIZ,405
+urban_blockface_excluded,blockface,Urban letter carrier: apartment,Weak MIZ,244
+urban_blockface_excluded,blockface,Business / large volume receiver,CMA,71
+urban_blockface_excluded,blockface,Business / large volume receiver,CA,50
+urban_blockface_excluded,blockface,Business / large volume receiver,Weak MIZ,1

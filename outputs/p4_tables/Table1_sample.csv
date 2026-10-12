@@ -1,0 +1,18 @@
+group,level,N,pct
+Reference source,blockface,486526,3.9
+Reference source,building,11675690,94.1
+Reference source,oda,250084,2
+Delivery mode,Rural postal code,2147208,17.3
+Delivery mode,Rural route / suburban service,155473,1.3
+Delivery mode,PO box / general delivery / other,32259,0.3
+Delivery mode,Unknown / retired,5395,0
+Delivery mode,Urban letter carrier: house,7989501,64.4
+Delivery mode,Urban letter carrier: apartment,2052235,16.5
+Delivery mode,Business / large volume receiver,30229,0.2
+Rurality (SAC),CMA,8762617,70.6
+Rurality (SAC),CA,1413385,11.4
+Rurality (SAC),Strong MIZ,739818,6
+Rurality (SAC),Moderate MIZ,931213,7.5
+Rurality (SAC),Weak MIZ,511041,4.1
+Rurality (SAC),No MIZ,44111,0.4
+Rurality (SAC),Territories,10115,0.1

@@ -1,0 +1,21 @@
+cohort,stratification,actual,predicted,mean_abs_error_pts
+K1_national,Province x SAC,12.2,12,0.13
+K1_national,Province x DMT,12.2,12.1,0.11
+K1_national,Province x SAC x DMT3,12.2,12,0.13
+K1_national,Province x SAC x DMT,12.2,12,0.14
+K2_town_in_MIZ,Province x SAC,7.5,28.1,20.6
+K2_town_in_MIZ,Province x DMT,7.5,4.5,3.01
+K2_town_in_MIZ,Province x SAC x DMT3,7.5,7.5,0.12
+K2_town_in_MIZ,Province x SAC x DMT,7.5,7.5,0.12
+K3_rural_in_CMA_CA,Province x SAC,49.5,9.6,39.91
+K3_rural_in_CMA_CA,Province x DMT,49.5,48,1.55
+K3_rural_in_CMA_CA,Province x SAC x DMT3,49.5,49.1,0.4
+K3_rural_in_CMA_CA,Province x SAC x DMT,49.5,49.2,0.32
+K4_MIZ_typical,Province x SAC,35.2,35.8,0.61
+K4_MIZ_typical,Province x DMT,35.2,34.9,0.33
+K4_MIZ_typical,Province x SAC x DMT3,35.2,35.1,0.22
+K4_MIZ_typical,Province x SAC x DMT,35.2,35.1,0.23
+K5_ON_rural_codes,Province x SAC,53,30.3,22.63
+K5_ON_rural_codes,Province x DMT,53,53.7,0.78
+K5_ON_rural_codes,Province x SAC x DMT3,53,52.9,0.29
+K5_ON_rural_codes,Province x SAC x DMT,53,53.9,0.97

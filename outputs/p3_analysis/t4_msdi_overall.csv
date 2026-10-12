@@ -1,0 +1,11 @@
+sample,dimension,N,pct_misclassified,pct_pccf_less_deprived,pct_pccf_more_deprived,pct_off_2plus,kappa_linear,kappa_quadratic,small_cell
+main,material,11731720,12.3,6.2,6.2,4.6,0.885,0.916,FALSE
+main,social,11731720,12.7,6.7,6,4.9,0.875,0.904,FALSE
+building,material,11035120,10.5,5.2,5.3,3.9,0.903,0.93,FALSE
+building,social,11035120,10.8,5.6,5.2,4,0.895,0.92,FALSE
+oda,material,239090,24.2,12.4,11.8,9.4,0.745,0.791,FALSE
+oda,social,239090,25.2,15.1,10.1,10.2,0.713,0.75,FALSE
+blockface,material,457510,49.4,26.2,23.2,20.2,0.471,0.557,FALSE
+blockface,social,457510,52.2,30.1,22.1,23.2,0.354,0.379,FALSE
+urban_blockface_excluded,material,220759,5.1,2.5,2.6,1.8,0.949,0.959,FALSE
+urban_blockface_excluded,social,220759,4.8,2.4,2.4,1.8,0.95,0.959,FALSE

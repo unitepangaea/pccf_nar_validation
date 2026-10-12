@@ -1,0 +1,29 @@
+sample,delivery_mode,N,median_m,q1_m,q3_m,p90_m,p95_m,mean_m,pct_le_100m,pct_le_1km,pct_gt_5km,pct_same_da,pct_same_csd,small_cell
+main,Urban letter carrier: house,7989501,65,33,124,233,404,173,67.3,98.1,0.3,91.8,99.8,FALSE
+main,Urban letter carrier: apartment,2052235,53,30,89,141,194,96,79.8,99.4,0.1,94.7,99.8,FALSE
+main,Business / large volume receiver,30229,48,28,82,149,295,130,82.4,99,0.3,92.2,99.8,FALSE
+main,Rural postal code,2147208,3125,1131,7242,13625,19905,6926,0.6,22.3,36.3,29.6,83.6,FALSE
+main,Rural route / suburban service,155473,3759,1922,6596,10781,14111,5202,0.3,11,37,36.9,86.1,FALSE
+main,PO box / general delivery / other,32259,2429,804,10660,21724,31240,12739,1.7,29.8,37.9,21.6,84,FALSE
+main,Unknown / retired,5395,2771,1592,7967,22569,121130,16726,2.3,16,32,9.1,60.4,FALSE
+building,Urban letter carrier: house,7863190,65,33,123,233,405,170,67.4,98.1,0.3,91.8,99.8,FALSE
+building,Urban letter carrier: apartment,2038802,53,30,88,141,193,96,79.8,99.4,0.1,94.6,99.8,FALSE
+building,Business / large volume receiver,29993,48,28,80,149,295,130,82.7,99,0.3,92.1,99.8,FALSE
+building,Rural postal code,1622592,3011,1151,6717,12588,18354,5956,0.6,21.8,34.2,30.8,85.1,FALSE
+building,Rural route / suburban service,92611,3306,1649,5908,9678,13116,4635,0.4,13.7,31.6,39.1,88.7,FALSE
+building,PO box / general delivery / other,24634,2999,894,11390,22009,30895,12876,1.7,27.2,39.8,22.7,85,FALSE
+building,Unknown / retired,3868,3009,1756,14209,24030,122520,21514,2.9,14.5,38.2,11.6,62,FALSE
+oda,Urban letter carrier: house,126311,84,48,137,220,348,375,58.8,97.8,0.7,95.1,99.5,FALSE
+oda,Urban letter carrier: apartment,13433,67,34,120,219,412,151,68,98.2,0,98.4,100,FALSE
+oda,Business / large volume receiver,236,106,65,106,106,106,110,48.7,99.2,0,97,98.7,FALSE
+oda,Rural postal code,94113,2933,1025,7765,13458,19725,10475,0.5,24.3,38.3,20.4,84.6,FALSE
+oda,Rural route / suburban service,14920,5061,2653,8568,13248,16794,6702,0.1,5.8,50.6,38.1,85.9,FALSE
+oda,PO box / general delivery / other,663,1652,505,8781,13618,20494,6037,5.1,38.2,34.8,29.7,85.8,FALSE
+oda,Unknown / retired,408,1582,970,2140,2540,2540,1606,0.7,25.5,1.5,2.7,100,FALSE
+blockface,Rural postal code,430503,3879,1076,9363,17337,24682,9808,0.8,23.5,43.7,26.9,77.6,FALSE
+blockface,Rural route / suburban service,47942,4324,2352,7297,11477,14444,5831,0.3,7.6,43.2,32.3,81,FALSE
+blockface,PO box / general delivery / other,6962,1452,639,8048,21110,33218,12891,1.4,38.2,31.4,17,80.2,FALSE
+blockface,Unknown / retired,1119,2838,1553,4690,6015,16271,5688,0.9,17.7,21.8,2.9,40.5,FALSE
+urban_blockface_excluded,Urban letter carrier: house,212902,20,0,168,592,1632,541,62.9,92.6,1.7,91.9,98.7,FALSE
+urban_blockface_excluded,Urban letter carrier: apartment,19158,0,0,0,93,505,166,90.1,96.3,1.2,93.3,99.1,FALSE
+urban_blockface_excluded,Business / large volume receiver,122,64,0,161,161,161,138,68.9,97.5,0,95.9,100,FALSE

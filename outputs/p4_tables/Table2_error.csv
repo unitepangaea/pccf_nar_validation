@@ -1,0 +1,16 @@
+group,level,N,median_m,IQR_m,p90_m,pct_le_100m,pct_gt_5km,pct_same_da,pct_same_csd
+All,All addresses,12412300,81,38-240,3073,56.8,7.1,80.6,96.7
+Delivery mode,Urban letter carrier: house,7989501,65,33-124,233,67.3,0.3,91.8,99.8
+Delivery mode,Urban letter carrier: apartment,2052235,53,30-89,141,79.8,0.1,94.7,99.8
+Delivery mode,Business / large volume receiver,30229,48,28-82,149,82.4,0.3,92.2,99.8
+Delivery mode,Rural postal code,2147208,3125,1131-7242,13625,0.6,36.3,29.6,83.6
+Delivery mode,Rural route / suburban service,155473,3759,1922-6596,10781,0.3,37,36.9,86.1
+Delivery mode,PO box / general delivery / other,32259,2429,804-10660,21724,1.7,37.9,21.6,84
+Delivery mode,Unknown / retired,5395,2771,1592-7967,22569,2.3,32,9.1,60.4
+Rurality (SAC),CMA,8762617,63,33-120,256,68.6,1.6,89.6,99.3
+Rurality (SAC),CA,1413385,84,39-247,2330,55.4,5.8,81.2,97.9
+Rurality (SAC),Strong MIZ,739818,2368,668-5787,10388,7.5,29.4,39.6,88
+Rurality (SAC),Moderate MIZ,931213,2093,414-6743,14387,12.4,31.7,46.9,84.2
+Rurality (SAC),Weak MIZ,511041,1045,208-4866,13413,16.8,24.6,48.2,87.5
+Rurality (SAC),No MIZ,44111,2218,532-8793,17542,2.9,35.1,54.8,61.6
+Rurality (SAC),Territories,10115,1014,516-2207,4840,2.5,9.6,48.5,93.2

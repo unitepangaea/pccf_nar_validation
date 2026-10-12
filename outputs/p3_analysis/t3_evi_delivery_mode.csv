@@ -1,0 +1,85 @@
+sample,delivery_mode,window,N,mean_ref,mean_pccf,bias,mae,rmse,pearson_r,small_cell
+main,Urban letter carrier: house,pix,7980349,0.321,0.322,5e-04,0.0214,0.0441,0.894,FALSE
+main,Urban letter carrier: apartment,pix,2050465,0.253,0.252,-7e-04,0.0189,0.0408,0.895,FALSE
+main,Business / large volume receiver,pix,30216,0.231,0.231,0,0.0165,0.0374,0.936,FALSE
+main,Rural postal code,pix,2128653,0.43,0.473,0.0431,0.097,0.1268,0.444,FALSE
+main,Rural route / suburban service,pix,155266,0.485,0.525,0.0402,0.0947,0.1269,0.283,FALSE
+main,PO box / general delivery / other,pix,32232,0.367,0.382,0.0158,0.0868,0.118,0.517,FALSE
+main,Unknown / retired,pix,5359,0.28,0.328,0.0485,0.0998,0.1385,0.312,FALSE
+main,Urban letter carrier: house,b1,7988312,0.328,0.328,4e-04,0.0125,0.0268,0.957,FALSE
+main,Urban letter carrier: apartment,b1,2052090,0.265,0.264,-2e-04,0.01,0.0219,0.966,FALSE
+main,Business / large volume receiver,b1,30229,0.246,0.247,5e-04,0.0095,0.022,0.977,FALSE
+main,Rural postal code,b1,2137452,0.437,0.472,0.0359,0.0821,0.109,0.514,FALSE
+main,Rural route / suburban service,b1,155454,0.485,0.52,0.0345,0.0821,0.112,0.37,FALSE
+main,PO box / general delivery / other,b1,32250,0.376,0.384,0.0073,0.0711,0.0971,0.608,FALSE
+main,Unknown / retired,b1,5395,0.302,0.331,0.0286,0.0819,0.1152,0.376,FALSE
+main,Urban letter carrier: house,b2,7989009,0.333,0.333,2e-04,0.009,0.0201,0.976,FALSE
+main,Urban letter carrier: apartment,b2,2052235,0.273,0.273,0,0.0066,0.0152,0.983,FALSE
+main,Business / large volume receiver,b2,30229,0.26,0.26,-2e-04,0.0064,0.0155,0.988,FALSE
+main,Rural postal code,b2,2139548,0.443,0.473,0.0297,0.0722,0.0986,0.566,FALSE
+main,Rural route / suburban service,b2,155469,0.485,0.514,0.0286,0.0741,0.1035,0.434,FALSE
+main,PO box / general delivery / other,b2,32256,0.383,0.387,0.0032,0.0636,0.0892,0.645,FALSE
+main,Unknown / retired,b2,5395,0.323,0.341,0.0178,0.0732,0.1018,0.399,FALSE
+building,Urban letter carrier: house,pix,7854063,0.321,0.322,5e-04,0.0212,0.0438,0.896,FALSE
+building,Urban letter carrier: apartment,pix,2037032,0.253,0.252,-7e-04,0.0189,0.0407,0.896,FALSE
+building,Business / large volume receiver,pix,29980,0.23,0.23,-4e-04,0.0161,0.0369,0.936,FALSE
+building,Rural postal code,pix,1605581,0.433,0.473,0.0408,0.0958,0.1254,0.461,FALSE
+building,Rural route / suburban service,pix,92436,0.478,0.52,0.0414,0.0955,0.1277,0.319,FALSE
+building,PO box / general delivery / other,pix,24607,0.357,0.373,0.0166,0.0872,0.1186,0.529,FALSE
+building,Unknown / retired,pix,3832,0.297,0.356,0.0582,0.1131,0.1534,0.202,FALSE
+building,Urban letter carrier: house,b1,7862004,0.328,0.328,4e-04,0.0125,0.0266,0.958,FALSE
+building,Urban letter carrier: apartment,b1,2038657,0.265,0.264,-2e-04,0.0099,0.0219,0.966,FALSE
+building,Business / large volume receiver,b1,29993,0.245,0.246,5e-04,0.0095,0.0221,0.976,FALSE
+building,Rural postal code,b1,1613778,0.439,0.472,0.0331,0.0807,0.1073,0.536,FALSE
+building,Rural route / suburban service,b1,92593,0.481,0.515,0.0342,0.0816,0.1116,0.397,FALSE
+building,PO box / general delivery / other,b1,24625,0.367,0.375,0.0077,0.0719,0.0973,0.624,FALSE
+building,Unknown / retired,b1,3868,0.318,0.354,0.0358,0.0952,0.1286,0.283,FALSE
+building,Urban letter carrier: house,b2,7862699,0.332,0.333,3e-04,0.0089,0.0201,0.976,FALSE
+building,Urban letter carrier: apartment,b2,2038802,0.273,0.273,1e-04,0.0066,0.0152,0.983,FALSE
+building,Business / large volume receiver,b2,29993,0.259,0.259,-2e-04,0.0064,0.0155,0.988,FALSE
+building,Rural postal code,b2,1615513,0.446,0.473,0.027,0.0708,0.0967,0.59,FALSE
+building,Rural route / suburban service,b2,92607,0.482,0.51,0.0281,0.0732,0.1023,0.455,FALSE
+building,PO box / general delivery / other,b2,24631,0.374,0.377,0.0031,0.0638,0.0886,0.665,FALSE
+building,Unknown / retired,b2,3868,0.336,0.365,0.0286,0.0824,0.1123,0.325,FALSE
+oda,Urban letter carrier: house,pix,126286,0.305,0.305,1e-04,0.0321,0.0596,0.802,FALSE
+oda,Urban letter carrier: apartment,pix,13433,0.251,0.255,0.0039,0.0295,0.0552,0.81,FALSE
+oda,Business / large volume receiver,pix,236,0.382,0.437,0.0553,0.0575,0.0792,0.96,FALSE
+oda,Rural postal code,pix,94083,0.426,0.497,0.0703,0.1134,0.1449,0.213,FALSE
+oda,Rural route / suburban service,pix,14920,0.469,0.545,0.0758,0.117,0.1543,0.111,FALSE
+oda,PO box / general delivery / other,pix,663,0.415,0.397,-0.0184,0.0953,0.1269,0.365,FALSE
+oda,Unknown / retired,pix,408,0.216,0.23,0.0138,0.0361,0.0501,0.734,FALSE
+oda,Urban letter carrier: house,b1,126308,0.33,0.33,-3e-04,0.0173,0.0329,0.926,FALSE
+oda,Urban letter carrier: apartment,b1,13433,0.28,0.277,-0.0031,0.015,0.0273,0.943,FALSE
+oda,Business / large volume receiver,b1,236,0.404,0.41,0.0056,0.009,0.016,0.988,FALSE
+oda,Rural postal code,b1,94109,0.432,0.495,0.0628,0.097,0.1262,0.272,FALSE
+oda,Rural route / suburban service,b1,14920,0.464,0.536,0.0713,0.1037,0.135,0.266,FALSE
+oda,PO box / general delivery / other,b1,663,0.419,0.397,-0.0228,0.0855,0.1174,0.37,FALSE
+oda,Unknown / retired,b1,408,0.248,0.271,0.0232,0.027,0.0375,0.831,FALSE
+oda,Urban letter carrier: house,b2,126310,0.348,0.348,-4e-04,0.0117,0.0234,0.96,FALSE
+oda,Urban letter carrier: apartment,b2,13433,0.297,0.294,-0.0029,0.0077,0.0143,0.984,FALSE
+oda,Business / large volume receiver,b2,236,0.393,0.388,-0.0042,0.0062,0.0111,0.99,FALSE
+oda,Rural postal code,b2,94113,0.44,0.494,0.0535,0.0861,0.1158,0.33,FALSE
+oda,Rural route / suburban service,b2,14920,0.463,0.523,0.0599,0.0913,0.1212,0.379,FALSE
+oda,PO box / general delivery / other,b2,663,0.43,0.408,-0.0225,0.0797,0.114,0.349,FALSE
+oda,Unknown / retired,b2,408,0.275,0.291,0.0153,0.0196,0.0275,0.864,FALSE
+blockface,Rural postal code,pix,428989,0.422,0.468,0.046,0.098,0.1276,0.418,FALSE
+blockface,Rural route / suburban service,pix,47910,0.503,0.529,0.0267,0.086,0.1155,0.268,FALSE
+blockface,PO box / general delivery / other,pix,6962,0.397,0.413,0.0164,0.0845,0.1151,0.424,FALSE
+blockface,Unknown / retired,pix,1119,0.243,0.271,0.0277,0.0774,0.1019,0.329,FALSE
+blockface,Rural postal code,b1,429565,0.427,0.467,0.0404,0.0839,0.1111,0.473,FALSE
+blockface,Rural route / suburban service,b1,47941,0.501,0.524,0.0236,0.0761,0.1044,0.358,FALSE
+blockface,PO box / general delivery / other,b1,6962,0.405,0.414,0.009,0.0669,0.0942,0.506,FALSE
+blockface,Unknown / retired,b1,1119,0.267,0.273,0.0056,0.0557,0.0795,0.404,FALSE
+blockface,Rural postal code,b2,429922,0.433,0.468,0.0346,0.0743,0.1014,0.515,FALSE
+blockface,Rural route / suburban service,b2,47942,0.498,0.518,0.0199,0.0706,0.0997,0.418,FALSE
+blockface,PO box / general delivery / other,b2,6962,0.413,0.419,0.0059,0.0614,0.0885,0.512,FALSE
+blockface,Unknown / retired,b2,1119,0.297,0.279,-0.0184,0.0609,0.0783,0.384,FALSE
+urban_blockface_excluded,Urban letter carrier: house,pix,212781,0.343,0.345,0.0019,0.0249,0.0544,0.882,FALSE
+urban_blockface_excluded,Urban letter carrier: apartment,pix,19036,0.256,0.258,0.0026,0.0081,0.0345,0.932,FALSE
+urban_blockface_excluded,Business / large volume receiver,pix,122,0.256,0.242,-0.0148,0.0198,0.0391,0.93,FALSE
+urban_blockface_excluded,Urban letter carrier: house,b1,212884,0.362,0.363,0.0011,0.0163,0.0385,0.929,FALSE
+urban_blockface_excluded,Urban letter carrier: apartment,b1,19158,0.279,0.28,0.0017,0.0061,0.0256,0.959,FALSE
+urban_blockface_excluded,Business / large volume receiver,b1,122,0.264,0.259,-0.0052,0.0113,0.0247,0.949,FALSE
+urban_blockface_excluded,Urban letter carrier: house,b2,212891,0.375,0.376,8e-04,0.0124,0.0319,0.946,FALSE
+urban_blockface_excluded,Urban letter carrier: apartment,b2,19158,0.295,0.296,8e-04,0.0039,0.0168,0.981,FALSE
+urban_blockface_excluded,Business / large volume receiver,b2,122,0.297,0.286,-0.0104,0.0153,0.0291,0.92,FALSE

@@ -1,0 +1,9 @@
+sample,delivery_mode,N,median_m,p90_m,pct_same_da,mat_misclassified,kappa_linear,EVI_MAE,EVI_bias
+blockface,Rural postal code,430503,3879,17337,26.9,49.4,0.465,0.0839,0.0404
+building,Rural postal code,1622592,3011,12588,30.8,44.9,0.531,0.0807,0.0331
+building,Urban letter carrier: house,7863190,65,233,91.8,5,0.955,0.0125,4e-04
+main,Rural postal code,2147208,3125,13625,29.6,46.2,0.516,0.0821,0.0359
+main,Urban letter carrier: house,7989501,65,233,91.8,5,0.955,0.0125,4e-04
+oda,Rural postal code,94113,2933,13458,20.4,53.9,0.441,0.097,0.0628
+oda,Urban letter carrier: house,126311,84,220,95.1,2.8,0.971,0.0173,-3e-04
+urban_blockface_excluded,Urban letter carrier: house,212902,20,592,91.9,5.2,0.948,0.0163,0.0011

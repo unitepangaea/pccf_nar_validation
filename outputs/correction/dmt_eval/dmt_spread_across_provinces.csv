@@ -1,0 +1,8 @@
+dmt7,N,national_pct,provinces,min_pct,max_pct,range_pts,min_median_m,max_median_m
+A house,7646600,5,12,2.5,6.9,4.4,54,118
+W rural,2015643,46.2,12,19.9,55.2,35.3,799,5891
+B apartment,1869711,2.9,10,2.4,9.9,7.5,44,85
+H/T rural route,145663,43.6,7,34.6,50,15.4,2812,9010
+J/K/M PO box/GD,27467,51,5,45.3,71.3,26,1298,9980
+E/G business,22657,3.1,4,0.1,4.7,4.6,43,61
+Z/unknown,3979,65.7,1,74,74,0,2891,2891
