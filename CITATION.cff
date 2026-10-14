@@ -5,12 +5,13 @@ authors:
   - family-names: Peters
     given-names: Paul A.
     affiliation: "Department of Health Sciences, Carleton University"
-    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"
+    orcid: "https://orcid.org/0000-0001-5225-2005"
   - family-names: McGaughey
     given-names: Tomoko
     affiliation: "Department of Health Sciences, Carleton University"
+    orcid: "https://orcid.org/0000-0001-5789-7785"
 license: MIT
-repository-code: "https://github.com/OWNER/pccf-nar-validation"
+repository-code: "https://github.com/unitepangaea/pccf_nar_validation"
 preferred-citation:
   type: article
   title: "Postal Code Geocoding Error and Exposure Misclassification in Canada: A National Validation of PCCF+ against National Address Registers"
@@ -21,4 +22,4 @@ preferred-citation:
       given-names: Tomoko
   journal: "Preprints"
   year: 2026
-  # doi: "10.20944/preprints2026XX.XXXX.v1"
+  doi: "10.20944/preprints202610.1204.v1"

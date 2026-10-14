@@ -282,3 +282,6 @@ msg("Key results (main sample):")
 print(tables$t2_error_delivery_mode[sample == "main", .(delivery_mode, N, median_m, p90_m, pct_same_da)])
 print(tables$t4_msdi_delivery_mode[sample == "main", .(dimension, delivery_mode, N, pct_misclassified, kappa_linear)])
 print(tables$m_interaction_tests)
+
+
+

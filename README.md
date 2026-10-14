@@ -1,16 +1,44 @@
-# Postal code geocoding error and exposure misclassification in Canada
+# pccf_nar_validation
 
-Code and derived tables for:
+Code, tables and an R correction tool for a national validation of PCCF+ postal code
+geocoding against the National Address Register (12.4 million addresses). Reports
+positional error and deprivation misclassification by delivery mode, and corrects
+MSDI-based rates and rate ratios for geocoding error.
 
 > Peters PA, McGaughey T. Postal Code Geocoding Error and Exposure Misclassification in
-> Canada: A National Validation of PCCF+ against National Address Registers. *Preprints*
-> 2026. (DOI to be added)
+> Canada: A National Validation of PCCF+ Against National Address Registers. *Preprints*
+> 2026 (posted 13 October 2026). https://doi.org/10.20944/preprints202610.1204.v1
 
-The study geocoded 12.4 million residential addresses from Statistics Canada's National
-Address Register (NAR) with the Postal Code Conversion File Plus (PCCF+) Version 8D,
-measured positional error, census-area agreement and misclassification of greenness (MODIS
-EVI) and area-based deprivation (MSDI 2021), and developed methods that correct
-deprivation-based estimates for postal-code geocoding error.
+## Description
+
+Canadian health studies commonly assign area-based exposures from residential postal codes
+using Statistics Canada's Postal Code Conversion File Plus (PCCF+). The study geocoded 12.4
+million residential addresses from the National Address Register (NAR) with PCCF+ Version 8D
+and compared each PCCF+ point with the address's building location. Error depended mainly on
+delivery mode. Median positional error was 65 m for urban houses served by letter carriers
+and 3.1 km for rural postal codes, and the material deprivation quintile of the 2021 Material
+and Social Deprivation Index (MSDI) was misclassified for 5.0% and 46.2% of these addresses,
+respectively.
+
+The `correction/` folder lets researchers report and correct geocoding error in their own
+data without rerunning the validation. It provides error measures by province, Statistical
+Area Classification (SAC) type and delivery mode, classification probabilities for a stratum
+correction of aggregate counts, and the distribution of true deprivation quintiles within each
+postal code for a record-level correction. The functions in `R/geoerror.R` return corrected
+rates and rate ratios by true quintile with simulation or credible intervals, and
+`correction/example.R` demonstrates both methods. The correction needs only R and the
+`data.table` package, along with the province, SAC type, delivery mode type and postal code
+that PCCF+ already reports for each record.
+
+The `scripts/` folder and `run_all.R` reproduce every table and figure in the paper. The
+`outputs/` folder holds the aggregate results reported in the paper, including
+Supplementary Tables S1 to S9.
+
+The public inputs (NAR, Open Database of Addresses, Geographic Attribute File, boundary
+files, MSDI and MODIS EVI) can be downloaded with the included scripts. PCCF+ is licensed
+by Statistics Canada and is not included, so reproducing the full pipeline requires a
+licensed copy, whereas the correction tables can be used without one. The tables apply to
+PCCF+ Version 8D (December 2025 postal codes) and the 2021 MSDI.
 
 ## Contents
 
@@ -79,4 +107,4 @@ and `correction/tables/`. Simulation results depend on random seeds set in each 
 
 ## Citation
 
-See `CITATION.cff`.
+See `CITATION.cff`, or cite the preprint above (https://doi.org/10.20944/preprints202610.1204.v1).
